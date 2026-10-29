@@ -27,6 +27,50 @@
     "features": "What's the best phone with a great camera and long battery life?",
     "use_case": "What's the best phone for taking photos and videos?",
     "max_price": "What's the best phone under $500?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "smartwatch": {
@@ -41,6 +85,50 @@
     "features": "What's the best smartwatch with health tracking and long battery life?",
     "use_case": "What's the best smartwatch for running and fitness?",
     "max_price": "What's the best smartwatch under $300?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "voice_assistant_device": {
@@ -55,6 +143,50 @@
     "features": "What's the best voice assistant device with good sound quality and smart home control?",
     "use_case": "What's the best voice assistant device for controlling smart home devices?",
     "max_price": "What's the best voice assistant device under $100?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "home_security_camera": {
@@ -69,6 +201,50 @@
     "features": "What's the best home security camera with night vision and no monthly subscription?",
     "use_case": "What's the best home security camera for watching the front door?",
     "max_price": "What's the best home security camera under $100?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "laptop": {
@@ -83,6 +259,50 @@
     "features": "What's the best laptop with a long battery life and at least 16GB of RAM?",
     "use_case": "What's the best laptop for work and everyday use, mainly Microsoft Office?",
     "max_price": "What's the best laptop under $1,200?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "desktop_computer": {
@@ -97,6 +317,50 @@
     "features": "What's the best desktop computer with a fast processor and plenty of storage?",
     "use_case": "What's the best desktop computer for working from home?",
     "max_price": "What's the best desktop computer under $1,000?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "tv": {
@@ -111,6 +375,50 @@
     "features": "What's the best TV with a 65-inch screen and great picture quality?",
     "use_case": "What's the best TV for watching sports?",
     "max_price": "What's the best TV under $800?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "digital_camera": {
@@ -125,6 +433,50 @@
     "features": "What's the best digital camera with 4K video and interchangeable lenses?",
     "use_case": "What's the best digital camera for travel photography?",
     "max_price": "What's the best digital camera under $1,000?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "headphones": {
@@ -139,6 +491,50 @@
     "features": "What are the best headphones with active noise cancellation?",
     "use_case": "What are the best headphones for commuting and travel?",
     "max_price": "What are the best headphones under $200?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "coffee_maker": {
@@ -153,6 +549,50 @@
     "features": "What's the best coffee maker with a built-in grinder and programmable brewing?",
     "use_case": "What's the best coffee maker for making espresso at home?",
     "max_price": "What's the best coffee maker under $100?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "blender": {
@@ -167,6 +607,50 @@
     "features": "What's the best blender with a powerful motor and easy cleaning?",
     "use_case": "What's the best blender for making smoothies?",
     "max_price": "What's the best blender under $100?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "vacuum_cleaner": {
@@ -181,6 +665,50 @@
     "features": "What's the best vacuum cleaner with cordless operation and strong suction?",
     "use_case": "What's the best vacuum cleaner for a home with pets?",
     "max_price": "What's the best vacuum cleaner under $300?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "air_fryer": {
@@ -195,6 +723,50 @@
     "features": "What's the best air fryer with a large capacity and a dishwasher-safe basket?",
     "use_case": "What's the best air fryer for a family of four?",
     "max_price": "What's the best air fryer under $100?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "refrigerator": {
@@ -209,6 +781,50 @@
     "features": "What's the best refrigerator with a French-door design and an ice maker?",
     "use_case": "What's the best refrigerator for a family of four?",
     "max_price": "What's the best refrigerator under $2,000?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "dishwasher": {
@@ -223,6 +839,50 @@
     "features": "What's the best dishwasher with quiet operation and a third rack?",
     "use_case": "What's the best dishwasher for a family of four?",
     "max_price": "What's the best dishwasher under $800?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "washing_machine": {
@@ -237,6 +897,50 @@
     "features": "What's the best washing machine with a large capacity and energy efficiency?",
     "use_case": "What's the best washing machine for a family of four?",
     "max_price": "What's the best washing machine under $800?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "oven": {
@@ -251,6 +955,50 @@
     "features": "What's the best oven with convection cooking and self-cleaning?",
     "use_case": "What's the best oven for baking?",
     "max_price": "What's the best oven under $1,000?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "air_purifier": {
@@ -265,6 +1013,50 @@
     "features": "What's the best air purifier with a HEPA filter and quiet operation?",
     "use_case": "What's the best air purifier for allergies?",
     "max_price": "What's the best air purifier under $200?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "air_conditioner": {
@@ -279,6 +1071,50 @@
     "features": "What's the best air conditioner with quiet operation and energy efficiency?",
     "use_case": "What's the best air conditioner for cooling a bedroom?",
     "max_price": "What's the best air conditioner under $500?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "sofa": {
@@ -293,6 +1129,50 @@
     "features": "What's the best sofa with a pull-out bed and stain-resistant fabric?",
     "use_case": "What's the best sofa for a small apartment?",
     "max_price": "What's the best sofa under $1,000?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "mattress": {
@@ -307,6 +1187,50 @@
     "features": "What's the best mattress with good cooling and back support?",
     "use_case": "What's the best mattress for back pain?",
     "max_price": "What's the best mattress under $1,000?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "office_chair": {
@@ -321,6 +1245,50 @@
     "features": "What's the best office chair with lumbar support and adjustable armrests?",
     "use_case": "What's the best office chair for working from home all day?",
     "max_price": "What's the best office chair under $300?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "home_office_desk": {
@@ -335,6 +1303,50 @@
     "features": "What's the best home office desk with adjustable standing height?",
     "use_case": "What's the best home office desk for working from home in a small space?",
     "max_price": "What's the best home office desk under $400?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "bed_frame": {
@@ -349,6 +1361,50 @@
     "features": "What's the best bed frame with built-in storage?",
     "use_case": "What's the best bed frame for a small bedroom?",
     "max_price": "What's the best bed frame under $400?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "dining_table": {
@@ -363,6 +1419,50 @@
     "features": "What's the best dining table with an extendable top?",
     "use_case": "What's the best dining table for a family of six?",
     "max_price": "What's the best dining table under $700?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "lawn_mower": {
@@ -377,6 +1477,50 @@
     "features": "What's the best lawn mower with a battery-powered motor and self-propelled drive?",
     "use_case": "What's the best lawn mower for a medium-sized yard?",
     "max_price": "What's the best lawn mower under $500?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "health_monitoring_device": {
@@ -391,6 +1535,50 @@
     "features": "What's the best health monitoring device with a long battery life and an accurate heart rate sensor?",
     "use_case": "What's the best health monitoring device for tracking sleep and heart rate?",
     "max_price": "What's the best health monitoring device under $200?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "fitness_app": {
@@ -405,6 +1593,50 @@
     "features": "What's the best fitness app with guided workouts and progress tracking?",
     "use_case": "What's the best fitness app for losing weight?",
     "max_price": "What's the best fitness app under $15 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "blood_pressure_monitor": {
@@ -419,6 +1651,50 @@
     "features": "What's the best blood pressure monitor with an upper-arm cuff and smartphone syncing?",
     "use_case": "What's the best blood pressure monitor for daily home monitoring?",
     "max_price": "What's the best blood pressure monitor under $75?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "hearing_aids": {
@@ -433,6 +1709,50 @@
     "features": "What are the best hearing aids with rechargeable batteries and Bluetooth streaming?",
     "use_case": "What are the best hearing aids for mild to moderate hearing loss?",
     "max_price": "What are the best hearing aids under $2,000?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "sunscreen": {
@@ -447,6 +1767,50 @@
     "features": "What's the best sunscreen with SPF 50 and a non-greasy finish?",
     "use_case": "What's the best sunscreen for sensitive skin?",
     "max_price": "What's the best sunscreen under $20?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "vitamins": {
@@ -461,6 +1825,50 @@
     "features": "What are the best vitamins with no artificial additives?",
     "use_case": "What are the best vitamins for everyday energy and immunity?",
     "max_price": "What are the best vitamins under $30?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "dietary_supplements": {
@@ -475,6 +1883,50 @@
     "features": "What are the best dietary supplements with third-party testing?",
     "use_case": "What are the best dietary supplements for muscle recovery?",
     "max_price": "What are the best dietary supplements under $30?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "skincare_products": {
@@ -489,6 +1941,50 @@
     "features": "What are the best skincare products with fragrance-free ingredients?",
     "use_case": "What are the best skincare products for dry skin?",
     "max_price": "What are the best skincare products under $50?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "hair_care_products": {
@@ -503,6 +1999,50 @@
     "features": "What are the best hair-care products with sulfate-free ingredients?",
     "use_case": "What are the best hair-care products for curly hair?",
     "max_price": "What are the best hair-care products under $30?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "perfume": {
@@ -517,6 +2057,50 @@
     "features": "What's the best perfume with a long-lasting fresh scent?",
     "use_case": "What's the best perfume for everyday wear?",
     "max_price": "What's the best perfume under $100?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "electric_car": {
@@ -531,6 +2115,50 @@
     "features": "What's the best electric car with a long range and fast charging?",
     "use_case": "What's the best electric car for a family?",
     "max_price": "What's the best electric car under $45,000?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "non_electric_car": {
@@ -545,6 +2173,50 @@
     "features": "What's the best non-electric car with good fuel economy and all-wheel drive?",
     "use_case": "What's the best non-electric car for a family?",
     "max_price": "What's the best non-electric car under $30,000?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "bicycle": {
@@ -559,6 +2231,50 @@
     "features": "What's the best bicycle with a lightweight frame and disc brakes?",
     "use_case": "What's the best bicycle for commuting to work?",
     "max_price": "What's the best bicycle under $800?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "e_bike": {
@@ -573,6 +2289,50 @@
     "features": "What's the best e-bike with a long-range battery and pedal assist?",
     "use_case": "What's the best e-bike for commuting to work?",
     "max_price": "What's the best e-bike under $1,500?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "motorcycle": {
@@ -587,6 +2347,50 @@
     "features": "What's the best motorcycle with a comfortable riding position and good fuel economy?",
     "use_case": "What's the best motorcycle for commuting?",
     "max_price": "What's the best motorcycle under $10,000?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "tires": {
@@ -601,6 +2405,50 @@
     "features": "What are the best tires with a long tread life?",
     "use_case": "What are the best tires for all-season driving?",
     "max_price": "What are the best tires under $150 per tire?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "car_rental": {
@@ -615,6 +2463,50 @@
     "features": "What's the best car rental company with free cancellation and unlimited mileage?",
     "use_case": "What's the best car rental company for a family road trip?",
     "max_price": "What's the best car rental company under $60 a day?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "technology_company_investment": {
@@ -629,6 +2521,50 @@
     "features": "What's the best technology company to invest in with steady revenue growth?",
     "use_case": "What's the best technology company to invest in for long-term investing?",
     "max_price": "What's the best technology company to invest in under $200 a share?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "cryptocurrency_exchange": {
@@ -643,6 +2579,50 @@
     "features": "What's the best cryptocurrency exchange with low fees?",
     "use_case": "What's the best cryptocurrency exchange for beginners?",
     "max_price": "What's the best cryptocurrency exchange under 0.5% in trading fees?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "mortgage": {
@@ -657,6 +2637,50 @@
     "features": "What's the best mortgage with a low fixed rate?",
     "use_case": "What's the best mortgage for a first-time home buyer?",
     "max_price": "What's the best mortgage under $400,000?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "credit_card": {
@@ -671,6 +2695,50 @@
     "features": "What's the best credit card with cash back and no annual fee?",
     "use_case": "What's the best credit card for travel?",
     "max_price": "What's the best credit card under $100 a year in fees?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "investment_platform": {
@@ -685,6 +2753,50 @@
     "features": "What's the best investment platform with commission-free trades?",
     "use_case": "What's the best investment platform for beginners investing for retirement?",
     "max_price": "What's the best investment platform under $10 a month in fees?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "international_money_transfer": {
@@ -699,6 +2811,50 @@
     "features": "What's the best international money transfer service with low fees and fast transfers?",
     "use_case": "What's the best international money transfer service for sending money to family abroad?",
     "max_price": "What's the best international money transfer service under $5 per transfer?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "online_bank": {
@@ -713,6 +2869,50 @@
     "features": "What's the best online bank with no monthly fees and a good mobile app?",
     "use_case": "What's the best online bank for everyday banking?",
     "max_price": "What's the best online bank under $5 a month in fees?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "savings_account": {
@@ -727,6 +2927,50 @@
     "features": "What's the best savings account with a high interest rate and no minimum balance?",
     "use_case": "What's the best savings account for an emergency fund?",
     "max_price": "What's the best savings account under $5 a month in fees?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "home_insurance": {
@@ -741,6 +2985,50 @@
     "features": "What's the best home insurance with water damage coverage?",
     "use_case": "What's the best home insurance for a first-time homeowner?",
     "max_price": "What's the best home insurance under $150 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "health_insurance": {
@@ -755,6 +3043,50 @@
     "features": "What's the best health insurance with a low deductible?",
     "use_case": "What's the best health insurance for a self-employed person?",
     "max_price": "What's the best health insurance under $400 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "car_insurance": {
@@ -769,6 +3101,50 @@
     "features": "What's the best car insurance with accident forgiveness?",
     "use_case": "What's the best car insurance for a young driver?",
     "max_price": "What's the best car insurance under $150 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "social_media_platform": {
@@ -783,6 +3159,50 @@
     "features": "What's the best social media platform with short videos?",
     "use_case": "What's the best social media platform for keeping up with friends?",
     "max_price": "What's the best social media platform under $5 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "video_streaming_service": {
@@ -797,6 +3217,50 @@
     "features": "What's the best video streaming service with original series and no ads?",
     "use_case": "What's the best video streaming service for watching movies with family?",
     "max_price": "What's the best video streaming service under $15 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "music_streaming_service": {
@@ -811,6 +3275,50 @@
     "features": "What's the best music streaming service with high-quality audio and offline downloads?",
     "use_case": "What's the best music streaming service for discovering new music?",
     "max_price": "What's the best music streaming service under $10 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "ai_assistant": {
@@ -825,6 +3333,50 @@
     "features": "What's the best AI assistant with web search and file uploads?",
     "use_case": "What's the best AI assistant for work and writing?",
     "max_price": "What's the best AI assistant under $20 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "audiobook_service": {
@@ -839,6 +3391,50 @@
     "features": "What's the best audiobook service with a large library and offline listening?",
     "use_case": "What's the best audiobook service for long commutes?",
     "max_price": "What's the best audiobook service under $15 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "ebook_service": {
@@ -853,6 +3449,50 @@
     "features": "What's the best ebook service with a large library and reading on any device?",
     "use_case": "What's the best ebook service for reading novels?",
     "max_price": "What's the best ebook service under $10 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "search_engine": {
@@ -867,6 +3507,50 @@
     "features": "What's the best search engine with no ads and strong privacy?",
     "use_case": "What's the best search engine for everyday research?",
     "max_price": "What's the best search engine under $5 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "newspaper": {
@@ -881,6 +3565,50 @@
     "features": "What's the best newspaper with in-depth investigative reporting?",
     "use_case": "What's the best newspaper for unbiased daily news?",
     "max_price": "What's the best newspaper under $10 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "gaming_console": {
@@ -895,6 +3623,50 @@
     "features": "What's the best gaming console with 4K gaming and backward compatibility?",
     "use_case": "What's the best gaming console for playing with family?",
     "max_price": "What's the best gaming console under $500?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "gaming_service": {
@@ -909,6 +3681,50 @@
     "features": "What's the best gaming service with a large game library and cloud gaming?",
     "use_case": "What's the best gaming service for casual gaming?",
     "max_price": "What's the best gaming service under $15 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "electric_guitar": {
@@ -923,6 +3739,50 @@
     "features": "What's the best electric guitar with a comfortable neck and versatile pickups?",
     "use_case": "What's the best electric guitar for a beginner?",
     "max_price": "What's the best electric guitar under $500?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "piano": {
@@ -937,6 +3797,50 @@
     "features": "What's the best piano with weighted keys?",
     "use_case": "What's the best piano for a beginner?",
     "max_price": "What's the best piano under $1,000?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "wine_gift": {
@@ -951,6 +3855,50 @@
     "features": "What's the best wine to give as a gift with high ratings from critics?",
     "use_case": "What's the best wine to give as a gift for a dinner party host?",
     "max_price": "What's the best wine to give as a gift under $50?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "email_service": {
@@ -965,6 +3913,50 @@
     "features": "What's the best email service with strong spam filtering and privacy?",
     "use_case": "What's the best email service for a small business?",
     "max_price": "What's the best email service under $5 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "website_builder": {
@@ -979,6 +3971,50 @@
     "features": "What's the best website builder with easy drag-and-drop design?",
     "use_case": "What's the best website builder for a small business website?",
     "max_price": "What's the best website builder under $20 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "web_browser": {
@@ -993,6 +4029,50 @@
     "features": "What's the best web browser with built-in ad blocking?",
     "use_case": "What's the best web browser for privacy?",
     "max_price": "What's the best web browser under $5 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "maps_navigation_service": {
@@ -1007,6 +4087,50 @@
     "features": "What's the best maps and navigation app with real-time traffic updates?",
     "use_case": "What's the best maps and navigation app for daily commuting?",
     "max_price": "What's the best maps and navigation app under $5 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "consumer_cloud_storage": {
@@ -1021,6 +4145,50 @@
     "features": "What's the best cloud storage service with automatic photo backup?",
     "use_case": "What's the best cloud storage service for storing family photos?",
     "max_price": "What's the best cloud storage service under $10 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "cloud_computing_platform": {
@@ -1035,6 +4203,50 @@
     "features": "What's the best cloud computing platform with easy setup and good customer support?",
     "use_case": "What's the best cloud computing platform for hosting a small business website?",
     "max_price": "What's the best cloud computing platform under $100 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "business_intelligence_platform": {
@@ -1049,6 +4261,50 @@
     "features": "What's the best business intelligence platform with easy dashboards and Excel integration?",
     "use_case": "What's the best business intelligence platform for a small business?",
     "max_price": "What's the best business intelligence platform under $20 per user a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "project_management_software": {
@@ -1063,6 +4319,50 @@
     "features": "What's the best project management software with Gantt charts and team collaboration?",
     "use_case": "What's the best project management software for a small team?",
     "max_price": "What's the best project management software under $10 per user a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "team_messaging_platform": {
@@ -1077,6 +4377,50 @@
     "features": "What's the best team messaging platform with video calls and file sharing?",
     "use_case": "What's the best team messaging platform for a remote team?",
     "max_price": "What's the best team messaging platform under $10 per user a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "video_editing_app": {
@@ -1091,6 +4435,50 @@
     "features": "What's the best video-editing app with easy templates and auto captions?",
     "use_case": "What's the best video-editing app for making YouTube videos?",
     "max_price": "What's the best video-editing app under $20 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "presentation_software": {
@@ -1105,6 +4493,50 @@
     "features": "What's the best presentation software with ready-made templates and real-time collaboration?",
     "use_case": "What's the best presentation software for business pitches?",
     "max_price": "What's the best presentation software under $10 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "video_conferencing_app": {
@@ -1119,6 +4551,50 @@
     "features": "What's the best video-conferencing app with screen sharing and recording?",
     "use_case": "What's the best video-conferencing app for remote team meetings?",
     "max_price": "What's the best video-conferencing app under $15 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "graphic_design_app": {
@@ -1133,6 +4609,50 @@
     "features": "What's the best graphic design app with easy templates for social media posts?",
     "use_case": "What's the best graphic design app for a small business?",
     "max_price": "What's the best graphic design app under $15 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "clothes_online": {
@@ -1147,6 +4667,50 @@
     "features": "What's the best place to buy clothes online with free returns?",
     "use_case": "What's the best place to buy clothes online for work outfits?",
     "max_price": "What's the best place to buy clothes online under $50 per item?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "shoes_online": {
@@ -1161,6 +4725,50 @@
     "features": "What's the best place to buy shoes online with free returns and wide sizes?",
     "use_case": "What's the best place to buy shoes online for running?",
     "max_price": "What's the best place to buy shoes online under $100?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "furniture_online": {
@@ -1175,6 +4783,50 @@
     "features": "What's the best place to buy furniture online with free delivery and assembly?",
     "use_case": "What's the best place to buy furniture online for furnishing a first apartment?",
     "max_price": "What's the best place to buy furniture online under $1,000?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "groceries_online": {
@@ -1189,6 +4841,50 @@
     "features": "What's the best place to buy groceries online with same-day delivery?",
     "use_case": "What's the best place to buy groceries online for a busy family?",
     "max_price": "What's the best place to buy groceries online under $10 a month in delivery fees?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "consumer_electronics_online": {
@@ -1203,6 +4899,50 @@
     "features": "What's the best place to buy consumer electronics online with fast shipping and easy returns?",
     "use_case": "What's the best place to buy consumer electronics online for buying a new laptop?",
     "max_price": "What's the best place to buy consumer electronics online under $500?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "supermarket": {
@@ -1217,6 +4957,50 @@
     "features": "What's the best supermarket with low prices and fresh produce?",
     "use_case": "What's the best supermarket for weekly family shopping?",
     "max_price": "What's the best supermarket under $150 a week?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "online_travel_agency": {
@@ -1231,6 +5015,50 @@
     "features": "What's the best online travel agency with free cancellation?",
     "use_case": "What's the best online travel agency for a family vacation?",
     "max_price": "What's the best online travel agency under $2,000 per trip?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "hotel_chain": {
@@ -1245,6 +5073,50 @@
     "features": "What's the best hotel chain with free breakfast and a good loyalty program?",
     "use_case": "What's the best hotel chain for business travel?",
     "max_price": "What's the best hotel chain under $200 a night?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "vacation_rental": {
@@ -1259,6 +5131,50 @@
     "features": "What's the best vacation rental platform with a pool and free cancellation?",
     "use_case": "What's the best vacation rental platform for a family vacation?",
     "max_price": "What's the best vacation rental platform under $200 a night?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "flight_comparison": {
@@ -1273,6 +5189,50 @@
     "features": "What's the best flight comparison website with price alerts?",
     "use_case": "What's the best flight comparison website for finding cheap international flights?",
     "max_price": "What's the best flight comparison website under $500 per ticket?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "restaurant_booking_platform": {
@@ -1287,6 +5247,50 @@
     "features": "What's the best restaurant booking platform with last-minute reservations?",
     "use_case": "What's the best restaurant booking platform for date nights?",
     "max_price": "What's the best restaurant booking platform under $50 per person?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "doctor_appointment_platform": {
@@ -1301,6 +5305,50 @@
     "features": "What's the best platform to book doctor appointments with same-day appointments?",
     "use_case": "What's the best platform to book doctor appointments for finding a primary care doctor?",
     "max_price": "What's the best platform to book doctor appointments under $100 per visit?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "veterinary_appointment_platform": {
@@ -1315,6 +5363,50 @@
     "features": "What's the best platform to book vet appointments with same-day availability?",
     "use_case": "What's the best platform to book vet appointments for a dog owner?",
     "max_price": "What's the best platform to book vet appointments under $50 per visit?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "babysitter_platform": {
@@ -1329,6 +5421,50 @@
     "features": "What's the best platform to find a babysitter with background-checked sitters?",
     "use_case": "What's the best platform to find a babysitter for date nights?",
     "max_price": "What's the best platform to find a babysitter under $25 an hour?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "home_contractor_platform": {
@@ -1343,6 +5479,50 @@
     "features": "What's the best platform to find home contractors with verified reviews and upfront pricing?",
     "use_case": "What's the best platform to find home contractors for a kitchen remodel?",
     "max_price": "What's the best platform to find home contractors under $100 an hour?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "lawyer_platform": {
@@ -1357,6 +5537,50 @@
     "features": "What's the best platform to find a lawyer with free consultations?",
     "use_case": "What's the best platform to find a lawyer for a small business?",
     "max_price": "What's the best platform to find a lawyer under $200 an hour?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "private_tutor_platform": {
@@ -1371,6 +5595,50 @@
     "features": "What's the best platform to find a private tutor with verified tutors and flexible scheduling?",
     "use_case": "What's the best platform to find a private tutor for high school math?",
     "max_price": "What's the best platform to find a private tutor under $50 an hour?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "freelancer_platform": {
@@ -1385,6 +5653,50 @@
     "features": "What's the best platform to hire freelancers with verified reviews?",
     "use_case": "What's the best platform to hire freelancers for hiring a web designer?",
     "max_price": "What's the best platform to hire freelancers under $50 an hour?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "home_internet_provider": {
@@ -1399,6 +5711,50 @@
     "features": "What's the best home internet provider with fast speeds and no data caps?",
     "use_case": "What's the best home internet provider for working from home?",
     "max_price": "What's the best home internet provider under $60 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   },
   "mobile_phone_provider": {
@@ -1413,6 +5769,50 @@
     "features": "What's the best mobile phone provider with unlimited data?",
     "use_case": "What's the best mobile phone provider for a family of four?",
     "max_price": "What's the best mobile phone provider under $50 a month?"
+   },
+   "word3": {
+    "chatgpt": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "gemini": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "claude": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "deepseek": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "grok": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    },
+    "mistral": {
+     "options": "don't",
+     "best": "don't",
+     "features": "don't",
+     "use_case": "don't",
+     "max_price": "don't"
+    }
    }
   }
  }
