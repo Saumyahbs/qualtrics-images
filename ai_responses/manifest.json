@@ -9,6 +9,11 @@
   "mistral"
  ],
  "image_url": "base_url + platform + '__' + prompt_type + '.jpg'",
+ "aliases": {
+  "fridge": "refrigerator",
+  "car": "non_electric_car",
+  "bike": "bicycle"
+ },
  "products": {
   "phone": {
    "label": "Phone",
@@ -19,6 +24,7 @@
    "prompts": {
     "options": "Recommend some options for a phone.",
     "best": "What's the best phone?",
+    "features": "What's the best phone with a great camera and long battery life?",
     "use_case": "What's the best phone for taking photos and videos?",
     "max_price": "What's the best phone under $500?"
    }
@@ -31,7 +37,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/consumer_electronics/smartwatch/",
    "prompts": {
     "options": "Recommend some options for a smartwatch.",
-    "best": "What's the best smartwatch?"
+    "best": "What's the best smartwatch?",
+    "features": "What's the best smartwatch with health tracking and long battery life?",
+    "use_case": "What's the best smartwatch for running and fitness?",
+    "max_price": "What's the best smartwatch under $300?"
    }
   },
   "voice_assistant_device": {
@@ -42,7 +51,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/consumer_electronics/voice_assistant_device/",
    "prompts": {
     "options": "Recommend some options for a voice assistant device.",
-    "best": "What's the best voice assistant device?"
+    "best": "What's the best voice assistant device?",
+    "features": "What's the best voice assistant device with good sound quality and smart home control?",
+    "use_case": "What's the best voice assistant device for controlling smart home devices?",
+    "max_price": "What's the best voice assistant device under $100?"
    }
   },
   "home_security_camera": {
@@ -55,6 +67,7 @@
     "options": "Recommend some options for a home security camera.",
     "best": "What's the best home security camera?",
     "features": "What's the best home security camera with night vision and no monthly subscription?",
+    "use_case": "What's the best home security camera for watching the front door?",
     "max_price": "What's the best home security camera under $100?"
    }
   },
@@ -67,6 +80,7 @@
    "prompts": {
     "options": "Recommend some options for a laptop.",
     "best": "What's the best laptop?",
+    "features": "What's the best laptop with a long battery life and at least 16GB of RAM?",
     "use_case": "What's the best laptop for work and everyday use, mainly Microsoft Office?",
     "max_price": "What's the best laptop under $1,200?"
    }
@@ -79,7 +93,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/consumer_electronics/desktop_computer/",
    "prompts": {
     "options": "Recommend some options for a desktop computer.",
-    "best": "What's the best desktop computer?"
+    "best": "What's the best desktop computer?",
+    "features": "What's the best desktop computer with a fast processor and plenty of storage?",
+    "use_case": "What's the best desktop computer for working from home?",
+    "max_price": "What's the best desktop computer under $1,000?"
    }
   },
   "tv": {
@@ -92,6 +109,7 @@
     "options": "Recommend some options for a TV.",
     "best": "What's the best TV?",
     "features": "What's the best TV with a 65-inch screen and great picture quality?",
+    "use_case": "What's the best TV for watching sports?",
     "max_price": "What's the best TV under $800?"
    }
   },
@@ -105,7 +123,8 @@
     "options": "Recommend some options for a digital camera.",
     "best": "What's the best digital camera?",
     "features": "What's the best digital camera with 4K video and interchangeable lenses?",
-    "use_case": "What's the best digital camera for travel photography?"
+    "use_case": "What's the best digital camera for travel photography?",
+    "max_price": "What's the best digital camera under $1,000?"
    }
   },
   "headphones": {
@@ -116,7 +135,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/consumer_electronics/headphones/",
    "prompts": {
     "options": "Recommend some options for headphones.",
-    "best": "What are the best headphones?"
+    "best": "What are the best headphones?",
+    "features": "What are the best headphones with active noise cancellation?",
+    "use_case": "What are the best headphones for commuting and travel?",
+    "max_price": "What are the best headphones under $200?"
    }
   },
   "coffee_maker": {
@@ -128,6 +150,7 @@
    "prompts": {
     "options": "Recommend some options for a coffee maker.",
     "best": "What's the best coffee maker?",
+    "features": "What's the best coffee maker with a built-in grinder and programmable brewing?",
     "use_case": "What's the best coffee maker for making espresso at home?",
     "max_price": "What's the best coffee maker under $100?"
    }
@@ -141,6 +164,7 @@
    "prompts": {
     "options": "Recommend some options for a blender.",
     "best": "What's the best blender?",
+    "features": "What's the best blender with a powerful motor and easy cleaning?",
     "use_case": "What's the best blender for making smoothies?",
     "max_price": "What's the best blender under $100?"
    }
@@ -153,7 +177,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/home_appliances/vacuum_cleaner/",
    "prompts": {
     "options": "Recommend some options for a vacuum cleaner.",
-    "best": "What's the best vacuum cleaner?"
+    "best": "What's the best vacuum cleaner?",
+    "features": "What's the best vacuum cleaner with cordless operation and strong suction?",
+    "use_case": "What's the best vacuum cleaner for a home with pets?",
+    "max_price": "What's the best vacuum cleaner under $300?"
    }
   },
   "air_fryer": {
@@ -164,7 +191,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/home_appliances/air_fryer/",
    "prompts": {
     "options": "Recommend some options for an air fryer.",
-    "best": "What's the best air fryer?"
+    "best": "What's the best air fryer?",
+    "features": "What's the best air fryer with a large capacity and a dishwasher-safe basket?",
+    "use_case": "What's the best air fryer for a family of four?",
+    "max_price": "What's the best air fryer under $100?"
    }
   },
   "refrigerator": {
@@ -175,7 +205,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/home_appliances/refrigerator/",
    "prompts": {
     "options": "Recommend some options for a refrigerator.",
-    "best": "What's the best refrigerator?"
+    "best": "What's the best refrigerator?",
+    "features": "What's the best refrigerator with a French-door design and an ice maker?",
+    "use_case": "What's the best refrigerator for a family of four?",
+    "max_price": "What's the best refrigerator under $2,000?"
    }
   },
   "dishwasher": {
@@ -186,7 +219,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/home_appliances/dishwasher/",
    "prompts": {
     "options": "Recommend some options for a dishwasher.",
-    "best": "What's the best dishwasher?"
+    "best": "What's the best dishwasher?",
+    "features": "What's the best dishwasher with quiet operation and a third rack?",
+    "use_case": "What's the best dishwasher for a family of four?",
+    "max_price": "What's the best dishwasher under $800?"
    }
   },
   "washing_machine": {
@@ -198,6 +234,7 @@
    "prompts": {
     "options": "Recommend some options for a washing machine.",
     "best": "What's the best washing machine?",
+    "features": "What's the best washing machine with a large capacity and energy efficiency?",
     "use_case": "What's the best washing machine for a family of four?",
     "max_price": "What's the best washing machine under $800?"
    }
@@ -210,7 +247,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/home_appliances/oven/",
    "prompts": {
     "options": "Recommend some options for an oven.",
-    "best": "What's the best oven?"
+    "best": "What's the best oven?",
+    "features": "What's the best oven with convection cooking and self-cleaning?",
+    "use_case": "What's the best oven for baking?",
+    "max_price": "What's the best oven under $1,000?"
    }
   },
   "air_purifier": {
@@ -223,7 +263,8 @@
     "options": "Recommend some options for an air purifier.",
     "best": "What's the best air purifier?",
     "features": "What's the best air purifier with a HEPA filter and quiet operation?",
-    "use_case": "What's the best air purifier for allergies?"
+    "use_case": "What's the best air purifier for allergies?",
+    "max_price": "What's the best air purifier under $200?"
    }
   },
   "air_conditioner": {
@@ -235,6 +276,7 @@
    "prompts": {
     "options": "Recommend some options for an air conditioner.",
     "best": "What's the best air conditioner?",
+    "features": "What's the best air conditioner with quiet operation and energy efficiency?",
     "use_case": "What's the best air conditioner for cooling a bedroom?",
     "max_price": "What's the best air conditioner under $500?"
    }
@@ -249,6 +291,7 @@
     "options": "Recommend some options for a sofa.",
     "best": "What's the best sofa?",
     "features": "What's the best sofa with a pull-out bed and stain-resistant fabric?",
+    "use_case": "What's the best sofa for a small apartment?",
     "max_price": "What's the best sofa under $1,000?"
    }
   },
@@ -262,6 +305,7 @@
     "options": "Recommend some options for a mattress.",
     "best": "What's the best mattress?",
     "features": "What's the best mattress with good cooling and back support?",
+    "use_case": "What's the best mattress for back pain?",
     "max_price": "What's the best mattress under $1,000?"
    }
   },
@@ -273,7 +317,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/furniture_outdoor_power_equipment/office_chair/",
    "prompts": {
     "options": "Recommend some options for an office chair.",
-    "best": "What's the best office chair?"
+    "best": "What's the best office chair?",
+    "features": "What's the best office chair with lumbar support and adjustable armrests?",
+    "use_case": "What's the best office chair for working from home all day?",
+    "max_price": "What's the best office chair under $300?"
    }
   },
   "home_office_desk": {
@@ -286,7 +333,8 @@
     "options": "Recommend some options for a home office desk.",
     "best": "What's the best home office desk?",
     "features": "What's the best home office desk with adjustable standing height?",
-    "use_case": "What's the best home office desk for working from home in a small space?"
+    "use_case": "What's the best home office desk for working from home in a small space?",
+    "max_price": "What's the best home office desk under $400?"
    }
   },
   "bed_frame": {
@@ -297,7 +345,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/furniture_outdoor_power_equipment/bed_frame/",
    "prompts": {
     "options": "Recommend some options for a bed frame.",
-    "best": "What's the best bed frame?"
+    "best": "What's the best bed frame?",
+    "features": "What's the best bed frame with built-in storage?",
+    "use_case": "What's the best bed frame for a small bedroom?",
+    "max_price": "What's the best bed frame under $400?"
    }
   },
   "dining_table": {
@@ -309,6 +360,7 @@
    "prompts": {
     "options": "Recommend some options for a dining table.",
     "best": "What's the best dining table?",
+    "features": "What's the best dining table with an extendable top?",
     "use_case": "What's the best dining table for a family of six?",
     "max_price": "What's the best dining table under $700?"
    }
@@ -321,7 +373,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/furniture_outdoor_power_equipment/lawn_mower/",
    "prompts": {
     "options": "Recommend some options for a lawn mower.",
-    "best": "What's the best lawn mower?"
+    "best": "What's the best lawn mower?",
+    "features": "What's the best lawn mower with a battery-powered motor and self-propelled drive?",
+    "use_case": "What's the best lawn mower for a medium-sized yard?",
+    "max_price": "What's the best lawn mower under $500?"
    }
   },
   "health_monitoring_device": {
@@ -333,6 +388,7 @@
    "prompts": {
     "options": "Recommend some options for a health monitoring device.",
     "best": "What's the best health monitoring device?",
+    "features": "What's the best health monitoring device with a long battery life and an accurate heart rate sensor?",
     "use_case": "What's the best health monitoring device for tracking sleep and heart rate?",
     "max_price": "What's the best health monitoring device under $200?"
    }
@@ -345,7 +401,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/health_personal_care/fitness_app/",
    "prompts": {
     "options": "Recommend some options for a fitness app.",
-    "best": "What's the best fitness app?"
+    "best": "What's the best fitness app?",
+    "features": "What's the best fitness app with guided workouts and progress tracking?",
+    "use_case": "What's the best fitness app for losing weight?",
+    "max_price": "What's the best fitness app under $15 a month?"
    }
   },
   "blood_pressure_monitor": {
@@ -356,7 +415,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/health_personal_care/blood_pressure_monitor/",
    "prompts": {
     "options": "Recommend some options for a blood pressure monitor.",
-    "best": "What's the best blood pressure monitor?"
+    "best": "What's the best blood pressure monitor?",
+    "features": "What's the best blood pressure monitor with an upper-arm cuff and smartphone syncing?",
+    "use_case": "What's the best blood pressure monitor for daily home monitoring?",
+    "max_price": "What's the best blood pressure monitor under $75?"
    }
   },
   "hearing_aids": {
@@ -368,6 +430,7 @@
    "prompts": {
     "options": "Recommend some options for hearing aids.",
     "best": "What are the best hearing aids?",
+    "features": "What are the best hearing aids with rechargeable batteries and Bluetooth streaming?",
     "use_case": "What are the best hearing aids for mild to moderate hearing loss?",
     "max_price": "What are the best hearing aids under $2,000?"
    }
@@ -382,6 +445,7 @@
     "options": "Recommend some options for sunscreen.",
     "best": "What's the best sunscreen?",
     "features": "What's the best sunscreen with SPF 50 and a non-greasy finish?",
+    "use_case": "What's the best sunscreen for sensitive skin?",
     "max_price": "What's the best sunscreen under $20?"
    }
   },
@@ -395,7 +459,8 @@
     "options": "Recommend some options for vitamins.",
     "best": "What are the best vitamins?",
     "features": "What are the best vitamins with no artificial additives?",
-    "use_case": "What are the best vitamins for everyday energy and immunity?"
+    "use_case": "What are the best vitamins for everyday energy and immunity?",
+    "max_price": "What are the best vitamins under $30?"
    }
   },
   "dietary_supplements": {
@@ -408,6 +473,7 @@
     "options": "Recommend some options for dietary supplements.",
     "best": "What are the best dietary supplements?",
     "features": "What are the best dietary supplements with third-party testing?",
+    "use_case": "What are the best dietary supplements for muscle recovery?",
     "max_price": "What are the best dietary supplements under $30?"
    }
   },
@@ -419,7 +485,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/health_personal_care/skincare_products/",
    "prompts": {
     "options": "Recommend some options for skincare products.",
-    "best": "What are the best skincare products?"
+    "best": "What are the best skincare products?",
+    "features": "What are the best skincare products with fragrance-free ingredients?",
+    "use_case": "What are the best skincare products for dry skin?",
+    "max_price": "What are the best skincare products under $50?"
    }
   },
   "hair_care_products": {
@@ -430,7 +499,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/health_personal_care/hair_care_products/",
    "prompts": {
     "options": "Recommend some options for hair-care products.",
-    "best": "What are the best hair-care products?"
+    "best": "What are the best hair-care products?",
+    "features": "What are the best hair-care products with sulfate-free ingredients?",
+    "use_case": "What are the best hair-care products for curly hair?",
+    "max_price": "What are the best hair-care products under $30?"
    }
   },
   "perfume": {
@@ -441,7 +513,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/health_personal_care/perfume/",
    "prompts": {
     "options": "Recommend some options for perfume.",
-    "best": "What's the best perfume?"
+    "best": "What's the best perfume?",
+    "features": "What's the best perfume with a long-lasting fresh scent?",
+    "use_case": "What's the best perfume for everyday wear?",
+    "max_price": "What's the best perfume under $100?"
    }
   },
   "electric_car": {
@@ -452,7 +527,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/automotive_mobility/electric_car/",
    "prompts": {
     "options": "Recommend some options for an electric car.",
-    "best": "What's the best electric car?"
+    "best": "What's the best electric car?",
+    "features": "What's the best electric car with a long range and fast charging?",
+    "use_case": "What's the best electric car for a family?",
+    "max_price": "What's the best electric car under $45,000?"
    }
   },
   "non_electric_car": {
@@ -465,6 +543,7 @@
     "options": "Recommend some options for a non-electric car.",
     "best": "What's the best non-electric car?",
     "features": "What's the best non-electric car with good fuel economy and all-wheel drive?",
+    "use_case": "What's the best non-electric car for a family?",
     "max_price": "What's the best non-electric car under $30,000?"
    }
   },
@@ -476,7 +555,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/automotive_mobility/bicycle/",
    "prompts": {
     "options": "Recommend some options for a bicycle.",
-    "best": "What's the best bicycle?"
+    "best": "What's the best bicycle?",
+    "features": "What's the best bicycle with a lightweight frame and disc brakes?",
+    "use_case": "What's the best bicycle for commuting to work?",
+    "max_price": "What's the best bicycle under $800?"
    }
   },
   "e_bike": {
@@ -487,7 +569,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/automotive_mobility/e_bike/",
    "prompts": {
     "options": "Recommend some options for an e-bike.",
-    "best": "What's the best e-bike?"
+    "best": "What's the best e-bike?",
+    "features": "What's the best e-bike with a long-range battery and pedal assist?",
+    "use_case": "What's the best e-bike for commuting to work?",
+    "max_price": "What's the best e-bike under $1,500?"
    }
   },
   "motorcycle": {
@@ -499,6 +584,7 @@
    "prompts": {
     "options": "Recommend some options for a motorcycle.",
     "best": "What's the best motorcycle?",
+    "features": "What's the best motorcycle with a comfortable riding position and good fuel economy?",
     "use_case": "What's the best motorcycle for commuting?",
     "max_price": "What's the best motorcycle under $10,000?"
    }
@@ -512,6 +598,7 @@
    "prompts": {
     "options": "Recommend some options for tires.",
     "best": "What are the best tires?",
+    "features": "What are the best tires with a long tread life?",
     "use_case": "What are the best tires for all-season driving?",
     "max_price": "What are the best tires under $150 per tire?"
    }
@@ -524,7 +611,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/automotive_mobility/car_rental/",
    "prompts": {
     "options": "Recommend some options for a car rental company.",
-    "best": "What's the best car rental company?"
+    "best": "What's the best car rental company?",
+    "features": "What's the best car rental company with free cancellation and unlimited mileage?",
+    "use_case": "What's the best car rental company for a family road trip?",
+    "max_price": "What's the best car rental company under $60 a day?"
    }
   },
   "technology_company_investment": {
@@ -535,7 +625,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/finance_insurance/technology_company_investment/",
    "prompts": {
     "options": "Recommend some options for a technology company to invest in.",
-    "best": "What's the best technology company to invest in?"
+    "best": "What's the best technology company to invest in?",
+    "features": "What's the best technology company to invest in with steady revenue growth?",
+    "use_case": "What's the best technology company to invest in for long-term investing?",
+    "max_price": "What's the best technology company to invest in under $200 a share?"
    }
   },
   "cryptocurrency_exchange": {
@@ -548,7 +641,8 @@
     "options": "Recommend some options for a cryptocurrency exchange.",
     "best": "What's the best cryptocurrency exchange?",
     "features": "What's the best cryptocurrency exchange with low fees?",
-    "use_case": "What's the best cryptocurrency exchange for beginners?"
+    "use_case": "What's the best cryptocurrency exchange for beginners?",
+    "max_price": "What's the best cryptocurrency exchange under 0.5% in trading fees?"
    }
   },
   "mortgage": {
@@ -561,7 +655,8 @@
     "options": "Recommend some options for a mortgage.",
     "best": "What's the best mortgage?",
     "features": "What's the best mortgage with a low fixed rate?",
-    "use_case": "What's the best mortgage for a first-time home buyer?"
+    "use_case": "What's the best mortgage for a first-time home buyer?",
+    "max_price": "What's the best mortgage under $400,000?"
    }
   },
   "credit_card": {
@@ -572,7 +667,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/finance_insurance/credit_card/",
    "prompts": {
     "options": "Recommend some options for a credit card.",
-    "best": "What's the best credit card?"
+    "best": "What's the best credit card?",
+    "features": "What's the best credit card with cash back and no annual fee?",
+    "use_case": "What's the best credit card for travel?",
+    "max_price": "What's the best credit card under $100 a year in fees?"
    }
   },
   "investment_platform": {
@@ -584,6 +682,7 @@
    "prompts": {
     "options": "Recommend some options for an investment platform.",
     "best": "What's the best investment platform?",
+    "features": "What's the best investment platform with commission-free trades?",
     "use_case": "What's the best investment platform for beginners investing for retirement?",
     "max_price": "What's the best investment platform under $10 a month in fees?"
    }
@@ -596,7 +695,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/finance_insurance/international_money_transfer/",
    "prompts": {
     "options": "Recommend some options for an international money transfer service.",
-    "best": "What's the best international money transfer service?"
+    "best": "What's the best international money transfer service?",
+    "features": "What's the best international money transfer service with low fees and fast transfers?",
+    "use_case": "What's the best international money transfer service for sending money to family abroad?",
+    "max_price": "What's the best international money transfer service under $5 per transfer?"
    }
   },
   "online_bank": {
@@ -607,7 +709,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/finance_insurance/online_bank/",
    "prompts": {
     "options": "Recommend some options for an online bank.",
-    "best": "What's the best online bank?"
+    "best": "What's the best online bank?",
+    "features": "What's the best online bank with no monthly fees and a good mobile app?",
+    "use_case": "What's the best online bank for everyday banking?",
+    "max_price": "What's the best online bank under $5 a month in fees?"
    }
   },
   "savings_account": {
@@ -618,7 +723,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/finance_insurance/savings_account/",
    "prompts": {
     "options": "Recommend some options for a savings account.",
-    "best": "What's the best savings account?"
+    "best": "What's the best savings account?",
+    "features": "What's the best savings account with a high interest rate and no minimum balance?",
+    "use_case": "What's the best savings account for an emergency fund?",
+    "max_price": "What's the best savings account under $5 a month in fees?"
    }
   },
   "home_insurance": {
@@ -631,6 +739,7 @@
     "options": "Recommend some options for home insurance.",
     "best": "What's the best home insurance?",
     "features": "What's the best home insurance with water damage coverage?",
+    "use_case": "What's the best home insurance for a first-time homeowner?",
     "max_price": "What's the best home insurance under $150 a month?"
    }
   },
@@ -644,7 +753,8 @@
     "options": "Recommend some options for health insurance.",
     "best": "What's the best health insurance?",
     "features": "What's the best health insurance with a low deductible?",
-    "use_case": "What's the best health insurance for a self-employed person?"
+    "use_case": "What's the best health insurance for a self-employed person?",
+    "max_price": "What's the best health insurance under $400 a month?"
    }
   },
   "car_insurance": {
@@ -655,7 +765,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/finance_insurance/car_insurance/",
    "prompts": {
     "options": "Recommend some options for car insurance.",
-    "best": "What's the best car insurance?"
+    "best": "What's the best car insurance?",
+    "features": "What's the best car insurance with accident forgiveness?",
+    "use_case": "What's the best car insurance for a young driver?",
+    "max_price": "What's the best car insurance under $150 a month?"
    }
   },
   "social_media_platform": {
@@ -668,6 +781,7 @@
     "options": "Recommend some options for a social media platform.",
     "best": "What's the best social media platform?",
     "features": "What's the best social media platform with short videos?",
+    "use_case": "What's the best social media platform for keeping up with friends?",
     "max_price": "What's the best social media platform under $5 a month?"
    }
   },
@@ -679,7 +793,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/entertainment_media_leisure/video_streaming_service/",
    "prompts": {
     "options": "Recommend some options for a video streaming service.",
-    "best": "What's the best video streaming service?"
+    "best": "What's the best video streaming service?",
+    "features": "What's the best video streaming service with original series and no ads?",
+    "use_case": "What's the best video streaming service for watching movies with family?",
+    "max_price": "What's the best video streaming service under $15 a month?"
    }
   },
   "music_streaming_service": {
@@ -692,6 +809,7 @@
     "options": "Recommend some options for a music streaming service.",
     "best": "What's the best music streaming service?",
     "features": "What's the best music streaming service with high-quality audio and offline downloads?",
+    "use_case": "What's the best music streaming service for discovering new music?",
     "max_price": "What's the best music streaming service under $10 a month?"
    }
   },
@@ -703,7 +821,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/entertainment_media_leisure/ai_assistant/",
    "prompts": {
     "options": "Recommend some options for an AI assistant.",
-    "best": "What's the best AI assistant?"
+    "best": "What's the best AI assistant?",
+    "features": "What's the best AI assistant with web search and file uploads?",
+    "use_case": "What's the best AI assistant for work and writing?",
+    "max_price": "What's the best AI assistant under $20 a month?"
    }
   },
   "audiobook_service": {
@@ -714,7 +835,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/entertainment_media_leisure/audiobook_service/",
    "prompts": {
     "options": "Recommend some options for an audiobook service.",
-    "best": "What's the best audiobook service?"
+    "best": "What's the best audiobook service?",
+    "features": "What's the best audiobook service with a large library and offline listening?",
+    "use_case": "What's the best audiobook service for long commutes?",
+    "max_price": "What's the best audiobook service under $15 a month?"
    }
   },
   "ebook_service": {
@@ -725,7 +849,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/entertainment_media_leisure/ebook_service/",
    "prompts": {
     "options": "Recommend some options for an ebook service.",
-    "best": "What's the best ebook service?"
+    "best": "What's the best ebook service?",
+    "features": "What's the best ebook service with a large library and reading on any device?",
+    "use_case": "What's the best ebook service for reading novels?",
+    "max_price": "What's the best ebook service under $10 a month?"
    }
   },
   "search_engine": {
@@ -736,7 +863,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/entertainment_media_leisure/search_engine/",
    "prompts": {
     "options": "Recommend some options for a search engine.",
-    "best": "What's the best search engine?"
+    "best": "What's the best search engine?",
+    "features": "What's the best search engine with no ads and strong privacy?",
+    "use_case": "What's the best search engine for everyday research?",
+    "max_price": "What's the best search engine under $5 a month?"
    }
   },
   "newspaper": {
@@ -748,6 +878,7 @@
    "prompts": {
     "options": "Recommend some options for a newspaper.",
     "best": "What's the best newspaper?",
+    "features": "What's the best newspaper with in-depth investigative reporting?",
     "use_case": "What's the best newspaper for unbiased daily news?",
     "max_price": "What's the best newspaper under $10 a month?"
    }
@@ -762,6 +893,7 @@
     "options": "Recommend some options for a gaming console.",
     "best": "What's the best gaming console?",
     "features": "What's the best gaming console with 4K gaming and backward compatibility?",
+    "use_case": "What's the best gaming console for playing with family?",
     "max_price": "What's the best gaming console under $500?"
    }
   },
@@ -773,7 +905,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/entertainment_media_leisure/gaming_service/",
    "prompts": {
     "options": "Recommend some options for a gaming service.",
-    "best": "What's the best gaming service?"
+    "best": "What's the best gaming service?",
+    "features": "What's the best gaming service with a large game library and cloud gaming?",
+    "use_case": "What's the best gaming service for casual gaming?",
+    "max_price": "What's the best gaming service under $15 a month?"
    }
   },
   "electric_guitar": {
@@ -785,6 +920,7 @@
    "prompts": {
     "options": "Recommend some options for an electric guitar.",
     "best": "What's the best electric guitar?",
+    "features": "What's the best electric guitar with a comfortable neck and versatile pickups?",
     "use_case": "What's the best electric guitar for a beginner?",
     "max_price": "What's the best electric guitar under $500?"
    }
@@ -797,7 +933,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/entertainment_media_leisure/piano/",
    "prompts": {
     "options": "Recommend some options for a piano.",
-    "best": "What's the best piano?"
+    "best": "What's the best piano?",
+    "features": "What's the best piano with weighted keys?",
+    "use_case": "What's the best piano for a beginner?",
+    "max_price": "What's the best piano under $1,000?"
    }
   },
   "wine_gift": {
@@ -810,7 +949,8 @@
     "options": "Recommend some options for a wine to give as a gift.",
     "best": "What's the best wine to give as a gift?",
     "features": "What's the best wine to give as a gift with high ratings from critics?",
-    "use_case": "What's the best wine to give as a gift for a dinner party host?"
+    "use_case": "What's the best wine to give as a gift for a dinner party host?",
+    "max_price": "What's the best wine to give as a gift under $50?"
    }
   },
   "email_service": {
@@ -821,7 +961,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/software_productivity/email_service/",
    "prompts": {
     "options": "Recommend some options for an email service.",
-    "best": "What's the best email service?"
+    "best": "What's the best email service?",
+    "features": "What's the best email service with strong spam filtering and privacy?",
+    "use_case": "What's the best email service for a small business?",
+    "max_price": "What's the best email service under $5 a month?"
    }
   },
   "website_builder": {
@@ -832,7 +975,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/software_productivity/website_builder/",
    "prompts": {
     "options": "Recommend some options for a website builder.",
-    "best": "What's the best website builder?"
+    "best": "What's the best website builder?",
+    "features": "What's the best website builder with easy drag-and-drop design?",
+    "use_case": "What's the best website builder for a small business website?",
+    "max_price": "What's the best website builder under $20 a month?"
    }
   },
   "web_browser": {
@@ -844,6 +990,7 @@
    "prompts": {
     "options": "Recommend some options for a web browser.",
     "best": "What's the best web browser?",
+    "features": "What's the best web browser with built-in ad blocking?",
     "use_case": "What's the best web browser for privacy?",
     "max_price": "What's the best web browser under $5 a month?"
    }
@@ -856,7 +1003,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/software_productivity/maps_navigation_service/",
    "prompts": {
     "options": "Recommend some options for a maps and navigation app.",
-    "best": "What's the best maps and navigation app?"
+    "best": "What's the best maps and navigation app?",
+    "features": "What's the best maps and navigation app with real-time traffic updates?",
+    "use_case": "What's the best maps and navigation app for daily commuting?",
+    "max_price": "What's the best maps and navigation app under $5 a month?"
    }
   },
   "consumer_cloud_storage": {
@@ -867,7 +1017,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/software_productivity/consumer_cloud_storage/",
    "prompts": {
     "options": "Recommend some options for a cloud storage service.",
-    "best": "What's the best cloud storage service?"
+    "best": "What's the best cloud storage service?",
+    "features": "What's the best cloud storage service with automatic photo backup?",
+    "use_case": "What's the best cloud storage service for storing family photos?",
+    "max_price": "What's the best cloud storage service under $10 a month?"
    }
   },
   "cloud_computing_platform": {
@@ -879,6 +1032,7 @@
    "prompts": {
     "options": "Recommend some options for a cloud computing platform.",
     "best": "What's the best cloud computing platform?",
+    "features": "What's the best cloud computing platform with easy setup and good customer support?",
     "use_case": "What's the best cloud computing platform for hosting a small business website?",
     "max_price": "What's the best cloud computing platform under $100 a month?"
    }
@@ -893,7 +1047,8 @@
     "options": "Recommend some options for a business intelligence platform.",
     "best": "What's the best business intelligence platform?",
     "features": "What's the best business intelligence platform with easy dashboards and Excel integration?",
-    "use_case": "What's the best business intelligence platform for a small business?"
+    "use_case": "What's the best business intelligence platform for a small business?",
+    "max_price": "What's the best business intelligence platform under $20 per user a month?"
    }
   },
   "project_management_software": {
@@ -906,6 +1061,7 @@
     "options": "Recommend some options for project management software.",
     "best": "What's the best project management software?",
     "features": "What's the best project management software with Gantt charts and team collaboration?",
+    "use_case": "What's the best project management software for a small team?",
     "max_price": "What's the best project management software under $10 per user a month?"
    }
   },
@@ -917,7 +1073,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/software_productivity/team_messaging_platform/",
    "prompts": {
     "options": "Recommend some options for a team messaging platform.",
-    "best": "What's the best team messaging platform?"
+    "best": "What's the best team messaging platform?",
+    "features": "What's the best team messaging platform with video calls and file sharing?",
+    "use_case": "What's the best team messaging platform for a remote team?",
+    "max_price": "What's the best team messaging platform under $10 per user a month?"
    }
   },
   "video_editing_app": {
@@ -928,7 +1087,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/software_productivity/video_editing_app/",
    "prompts": {
     "options": "Recommend some options for a video-editing app.",
-    "best": "What's the best video-editing app?"
+    "best": "What's the best video-editing app?",
+    "features": "What's the best video-editing app with easy templates and auto captions?",
+    "use_case": "What's the best video-editing app for making YouTube videos?",
+    "max_price": "What's the best video-editing app under $20 a month?"
    }
   },
   "presentation_software": {
@@ -941,6 +1103,7 @@
     "options": "Recommend some options for presentation software.",
     "best": "What's the best presentation software?",
     "features": "What's the best presentation software with ready-made templates and real-time collaboration?",
+    "use_case": "What's the best presentation software for business pitches?",
     "max_price": "What's the best presentation software under $10 a month?"
    }
   },
@@ -954,7 +1117,8 @@
     "options": "Recommend some options for a video-conferencing app.",
     "best": "What's the best video-conferencing app?",
     "features": "What's the best video-conferencing app with screen sharing and recording?",
-    "use_case": "What's the best video-conferencing app for remote team meetings?"
+    "use_case": "What's the best video-conferencing app for remote team meetings?",
+    "max_price": "What's the best video-conferencing app under $15 a month?"
    }
   },
   "graphic_design_app": {
@@ -967,6 +1131,7 @@
     "options": "Recommend some options for a graphic design app.",
     "best": "What's the best graphic design app?",
     "features": "What's the best graphic design app with easy templates for social media posts?",
+    "use_case": "What's the best graphic design app for a small business?",
     "max_price": "What's the best graphic design app under $15 a month?"
    }
   },
@@ -979,6 +1144,7 @@
    "prompts": {
     "options": "Recommend some options for buying clothes online.",
     "best": "What's the best place to buy clothes online?",
+    "features": "What's the best place to buy clothes online with free returns?",
     "use_case": "What's the best place to buy clothes online for work outfits?",
     "max_price": "What's the best place to buy clothes online under $50 per item?"
    }
@@ -992,6 +1158,7 @@
    "prompts": {
     "options": "Recommend some options for buying shoes online.",
     "best": "What's the best place to buy shoes online?",
+    "features": "What's the best place to buy shoes online with free returns and wide sizes?",
     "use_case": "What's the best place to buy shoes online for running?",
     "max_price": "What's the best place to buy shoes online under $100?"
    }
@@ -1004,7 +1171,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/shopping_retail/furniture_online/",
    "prompts": {
     "options": "Recommend some options for buying furniture online.",
-    "best": "What's the best place to buy furniture online?"
+    "best": "What's the best place to buy furniture online?",
+    "features": "What's the best place to buy furniture online with free delivery and assembly?",
+    "use_case": "What's the best place to buy furniture online for furnishing a first apartment?",
+    "max_price": "What's the best place to buy furniture online under $1,000?"
    }
   },
   "groceries_online": {
@@ -1015,7 +1185,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/shopping_retail/groceries_online/",
    "prompts": {
     "options": "Recommend some options for buying groceries online.",
-    "best": "What's the best place to buy groceries online?"
+    "best": "What's the best place to buy groceries online?",
+    "features": "What's the best place to buy groceries online with same-day delivery?",
+    "use_case": "What's the best place to buy groceries online for a busy family?",
+    "max_price": "What's the best place to buy groceries online under $10 a month in delivery fees?"
    }
   },
   "consumer_electronics_online": {
@@ -1028,6 +1201,7 @@
     "options": "Recommend some options for buying consumer electronics online.",
     "best": "What's the best place to buy consumer electronics online?",
     "features": "What's the best place to buy consumer electronics online with fast shipping and easy returns?",
+    "use_case": "What's the best place to buy consumer electronics online for buying a new laptop?",
     "max_price": "What's the best place to buy consumer electronics online under $500?"
    }
   },
@@ -1039,7 +1213,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/shopping_retail/supermarket/",
    "prompts": {
     "options": "Recommend some options for a supermarket.",
-    "best": "What's the best supermarket?"
+    "best": "What's the best supermarket?",
+    "features": "What's the best supermarket with low prices and fresh produce?",
+    "use_case": "What's the best supermarket for weekly family shopping?",
+    "max_price": "What's the best supermarket under $150 a week?"
    }
   },
   "online_travel_agency": {
@@ -1052,7 +1229,8 @@
     "options": "Recommend some options for an online travel agency.",
     "best": "What's the best online travel agency?",
     "features": "What's the best online travel agency with free cancellation?",
-    "use_case": "What's the best online travel agency for a family vacation?"
+    "use_case": "What's the best online travel agency for a family vacation?",
+    "max_price": "What's the best online travel agency under $2,000 per trip?"
    }
   },
   "hotel_chain": {
@@ -1063,7 +1241,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/travel_local_services/hotel_chain/",
    "prompts": {
     "options": "Recommend some options for a hotel chain.",
-    "best": "What's the best hotel chain?"
+    "best": "What's the best hotel chain?",
+    "features": "What's the best hotel chain with free breakfast and a good loyalty program?",
+    "use_case": "What's the best hotel chain for business travel?",
+    "max_price": "What's the best hotel chain under $200 a night?"
    }
   },
   "vacation_rental": {
@@ -1076,6 +1257,7 @@
     "options": "Recommend some options for a vacation rental platform.",
     "best": "What's the best vacation rental platform?",
     "features": "What's the best vacation rental platform with a pool and free cancellation?",
+    "use_case": "What's the best vacation rental platform for a family vacation?",
     "max_price": "What's the best vacation rental platform under $200 a night?"
    }
   },
@@ -1087,7 +1269,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/travel_local_services/flight_comparison/",
    "prompts": {
     "options": "Recommend some options for a flight comparison website.",
-    "best": "What's the best flight comparison website?"
+    "best": "What's the best flight comparison website?",
+    "features": "What's the best flight comparison website with price alerts?",
+    "use_case": "What's the best flight comparison website for finding cheap international flights?",
+    "max_price": "What's the best flight comparison website under $500 per ticket?"
    }
   },
   "restaurant_booking_platform": {
@@ -1098,7 +1283,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/travel_local_services/restaurant_booking_platform/",
    "prompts": {
     "options": "Recommend some options for a restaurant booking platform.",
-    "best": "What's the best restaurant booking platform?"
+    "best": "What's the best restaurant booking platform?",
+    "features": "What's the best restaurant booking platform with last-minute reservations?",
+    "use_case": "What's the best restaurant booking platform for date nights?",
+    "max_price": "What's the best restaurant booking platform under $50 per person?"
    }
   },
   "doctor_appointment_platform": {
@@ -1109,7 +1297,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/travel_local_services/doctor_appointment_platform/",
    "prompts": {
     "options": "Recommend some options for a platform to book doctor appointments.",
-    "best": "What's the best platform to book doctor appointments?"
+    "best": "What's the best platform to book doctor appointments?",
+    "features": "What's the best platform to book doctor appointments with same-day appointments?",
+    "use_case": "What's the best platform to book doctor appointments for finding a primary care doctor?",
+    "max_price": "What's the best platform to book doctor appointments under $100 per visit?"
    }
   },
   "veterinary_appointment_platform": {
@@ -1122,6 +1313,7 @@
     "options": "Recommend some options for a platform to book vet appointments.",
     "best": "What's the best platform to book vet appointments?",
     "features": "What's the best platform to book vet appointments with same-day availability?",
+    "use_case": "What's the best platform to book vet appointments for a dog owner?",
     "max_price": "What's the best platform to book vet appointments under $50 per visit?"
    }
   },
@@ -1135,7 +1327,8 @@
     "options": "Recommend some options for a platform to find a babysitter.",
     "best": "What's the best platform to find a babysitter?",
     "features": "What's the best platform to find a babysitter with background-checked sitters?",
-    "use_case": "What's the best platform to find a babysitter for date nights?"
+    "use_case": "What's the best platform to find a babysitter for date nights?",
+    "max_price": "What's the best platform to find a babysitter under $25 an hour?"
    }
   },
   "home_contractor_platform": {
@@ -1146,7 +1339,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/travel_local_services/home_contractor_platform/",
    "prompts": {
     "options": "Recommend some options for a platform to find home contractors.",
-    "best": "What's the best platform to find home contractors?"
+    "best": "What's the best platform to find home contractors?",
+    "features": "What's the best platform to find home contractors with verified reviews and upfront pricing?",
+    "use_case": "What's the best platform to find home contractors for a kitchen remodel?",
+    "max_price": "What's the best platform to find home contractors under $100 an hour?"
    }
   },
   "lawyer_platform": {
@@ -1159,6 +1355,7 @@
     "options": "Recommend some options for a platform to find a lawyer.",
     "best": "What's the best platform to find a lawyer?",
     "features": "What's the best platform to find a lawyer with free consultations?",
+    "use_case": "What's the best platform to find a lawyer for a small business?",
     "max_price": "What's the best platform to find a lawyer under $200 an hour?"
    }
   },
@@ -1170,7 +1367,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/professional_services/private_tutor_platform/",
    "prompts": {
     "options": "Recommend some options for a platform to find a private tutor.",
-    "best": "What's the best platform to find a private tutor?"
+    "best": "What's the best platform to find a private tutor?",
+    "features": "What's the best platform to find a private tutor with verified tutors and flexible scheduling?",
+    "use_case": "What's the best platform to find a private tutor for high school math?",
+    "max_price": "What's the best platform to find a private tutor under $50 an hour?"
    }
   },
   "freelancer_platform": {
@@ -1183,6 +1383,7 @@
     "options": "Recommend some options for a platform to hire freelancers.",
     "best": "What's the best platform to hire freelancers?",
     "features": "What's the best platform to hire freelancers with verified reviews?",
+    "use_case": "What's the best platform to hire freelancers for hiring a web designer?",
     "max_price": "What's the best platform to hire freelancers under $50 an hour?"
    }
   },
@@ -1194,7 +1395,10 @@
    "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/telecommunications/home_internet_provider/",
    "prompts": {
     "options": "Recommend some options for a home internet provider.",
-    "best": "What's the best home internet provider?"
+    "best": "What's the best home internet provider?",
+    "features": "What's the best home internet provider with fast speeds and no data caps?",
+    "use_case": "What's the best home internet provider for working from home?",
+    "max_price": "What's the best home internet provider under $60 a month?"
    }
   },
   "mobile_phone_provider": {
@@ -1207,7 +1411,8 @@
     "options": "Recommend some options for a mobile phone provider.",
     "best": "What's the best mobile phone provider?",
     "features": "What's the best mobile phone provider with unlimited data?",
-    "use_case": "What's the best mobile phone provider for a family of four?"
+    "use_case": "What's the best mobile phone provider for a family of four?",
+    "max_price": "What's the best mobile phone provider under $50 a month?"
    }
   }
  }
