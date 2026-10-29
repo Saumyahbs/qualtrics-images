@@ -15,5 +15,8 @@ ai_responses/<category>/<product>/<platform>__<prompt_type>.jpg
 - prompt_type: options ("Recommend some options for a ..."), best ("What's the best ...?"),
   and, for 50 products, two of features / use_case / max_price
 
-`manifest.csv` lists every image with its category, product, ownership (O = affiliated with Google or an Elon Musk company, I = independent),
+`manifest.json` is read by the Qualtrics Image Intro JavaScript: per product, its label, category, ownership,
+prompt text per prompt type, and `base_url` (image URL = base_url + platform + "__" + prompt_type + ".jpg").
+
+`manifest.csv` lists every image with its category, product, product_slug, ownership (O = affiliated with Google or an Elon Musk company, I = independent),
 platform, prompt type, prompt text, path and raw GitHub URL.

@@ -1,0 +1,1214 @@
+{
+ "version": 3,
+ "platforms": [
+  "chatgpt",
+  "gemini",
+  "claude",
+  "deepseek",
+  "grok",
+  "mistral"
+ ],
+ "image_url": "base_url + platform + '__' + prompt_type + '.jpg'",
+ "products": {
+  "phone": {
+   "label": "Phone",
+   "category": "Consumer Electronics",
+   "ownership": "O",
+   "affiliated": "Google Pixel",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/consumer_electronics/phone/",
+   "prompts": {
+    "options": "Recommend some options for a phone.",
+    "best": "What's the best phone?",
+    "use_case": "What's the best phone for taking photos and videos?",
+    "max_price": "What's the best phone under $500?"
+   }
+  },
+  "smartwatch": {
+   "label": "Smartwatch",
+   "category": "Consumer Electronics",
+   "ownership": "O",
+   "affiliated": "Google Pixel Watch",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/consumer_electronics/smartwatch/",
+   "prompts": {
+    "options": "Recommend some options for a smartwatch.",
+    "best": "What's the best smartwatch?"
+   }
+  },
+  "voice_assistant_device": {
+   "label": "Voice assistant device",
+   "category": "Consumer Electronics",
+   "ownership": "O",
+   "affiliated": "Google Nest",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/consumer_electronics/voice_assistant_device/",
+   "prompts": {
+    "options": "Recommend some options for a voice assistant device.",
+    "best": "What's the best voice assistant device?"
+   }
+  },
+  "home_security_camera": {
+   "label": "Home security camera",
+   "category": "Consumer Electronics",
+   "ownership": "O",
+   "affiliated": "Google Nest Cam",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/consumer_electronics/home_security_camera/",
+   "prompts": {
+    "options": "Recommend some options for a home security camera.",
+    "best": "What's the best home security camera?",
+    "features": "What's the best home security camera with night vision and no monthly subscription?",
+    "max_price": "What's the best home security camera under $100?"
+   }
+  },
+  "laptop": {
+   "label": "Laptop",
+   "category": "Consumer Electronics",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/consumer_electronics/laptop/",
+   "prompts": {
+    "options": "Recommend some options for a laptop.",
+    "best": "What's the best laptop?",
+    "use_case": "What's the best laptop for work and everyday use, mainly Microsoft Office?",
+    "max_price": "What's the best laptop under $1,200?"
+   }
+  },
+  "desktop_computer": {
+   "label": "Desktop computer",
+   "category": "Consumer Electronics",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/consumer_electronics/desktop_computer/",
+   "prompts": {
+    "options": "Recommend some options for a desktop computer.",
+    "best": "What's the best desktop computer?"
+   }
+  },
+  "tv": {
+   "label": "TV",
+   "category": "Consumer Electronics",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/consumer_electronics/tv/",
+   "prompts": {
+    "options": "Recommend some options for a TV.",
+    "best": "What's the best TV?",
+    "features": "What's the best TV with a 65-inch screen and great picture quality?",
+    "max_price": "What's the best TV under $800?"
+   }
+  },
+  "digital_camera": {
+   "label": "Digital camera",
+   "category": "Consumer Electronics",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/consumer_electronics/digital_camera/",
+   "prompts": {
+    "options": "Recommend some options for a digital camera.",
+    "best": "What's the best digital camera?",
+    "features": "What's the best digital camera with 4K video and interchangeable lenses?",
+    "use_case": "What's the best digital camera for travel photography?"
+   }
+  },
+  "headphones": {
+   "label": "Headphones",
+   "category": "Consumer Electronics",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/consumer_electronics/headphones/",
+   "prompts": {
+    "options": "Recommend some options for headphones.",
+    "best": "What are the best headphones?"
+   }
+  },
+  "coffee_maker": {
+   "label": "Coffee maker",
+   "category": "Home Appliances",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/home_appliances/coffee_maker/",
+   "prompts": {
+    "options": "Recommend some options for a coffee maker.",
+    "best": "What's the best coffee maker?",
+    "use_case": "What's the best coffee maker for making espresso at home?",
+    "max_price": "What's the best coffee maker under $100?"
+   }
+  },
+  "blender": {
+   "label": "Blender",
+   "category": "Home Appliances",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/home_appliances/blender/",
+   "prompts": {
+    "options": "Recommend some options for a blender.",
+    "best": "What's the best blender?",
+    "use_case": "What's the best blender for making smoothies?",
+    "max_price": "What's the best blender under $100?"
+   }
+  },
+  "vacuum_cleaner": {
+   "label": "Vacuum cleaner",
+   "category": "Home Appliances",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/home_appliances/vacuum_cleaner/",
+   "prompts": {
+    "options": "Recommend some options for a vacuum cleaner.",
+    "best": "What's the best vacuum cleaner?"
+   }
+  },
+  "air_fryer": {
+   "label": "Air fryer",
+   "category": "Home Appliances",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/home_appliances/air_fryer/",
+   "prompts": {
+    "options": "Recommend some options for an air fryer.",
+    "best": "What's the best air fryer?"
+   }
+  },
+  "refrigerator": {
+   "label": "Refrigerator",
+   "category": "Home Appliances",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/home_appliances/refrigerator/",
+   "prompts": {
+    "options": "Recommend some options for a refrigerator.",
+    "best": "What's the best refrigerator?"
+   }
+  },
+  "dishwasher": {
+   "label": "Dishwasher",
+   "category": "Home Appliances",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/home_appliances/dishwasher/",
+   "prompts": {
+    "options": "Recommend some options for a dishwasher.",
+    "best": "What's the best dishwasher?"
+   }
+  },
+  "washing_machine": {
+   "label": "Washing machine",
+   "category": "Home Appliances",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/home_appliances/washing_machine/",
+   "prompts": {
+    "options": "Recommend some options for a washing machine.",
+    "best": "What's the best washing machine?",
+    "use_case": "What's the best washing machine for a family of four?",
+    "max_price": "What's the best washing machine under $800?"
+   }
+  },
+  "oven": {
+   "label": "Oven",
+   "category": "Home Appliances",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/home_appliances/oven/",
+   "prompts": {
+    "options": "Recommend some options for an oven.",
+    "best": "What's the best oven?"
+   }
+  },
+  "air_purifier": {
+   "label": "Air purifier",
+   "category": "Home Appliances",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/home_appliances/air_purifier/",
+   "prompts": {
+    "options": "Recommend some options for an air purifier.",
+    "best": "What's the best air purifier?",
+    "features": "What's the best air purifier with a HEPA filter and quiet operation?",
+    "use_case": "What's the best air purifier for allergies?"
+   }
+  },
+  "air_conditioner": {
+   "label": "Air conditioner",
+   "category": "Home Appliances",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/home_appliances/air_conditioner/",
+   "prompts": {
+    "options": "Recommend some options for an air conditioner.",
+    "best": "What's the best air conditioner?",
+    "use_case": "What's the best air conditioner for cooling a bedroom?",
+    "max_price": "What's the best air conditioner under $500?"
+   }
+  },
+  "sofa": {
+   "label": "Sofa",
+   "category": "Furniture & Outdoor Power Equipment",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/furniture_outdoor_power_equipment/sofa/",
+   "prompts": {
+    "options": "Recommend some options for a sofa.",
+    "best": "What's the best sofa?",
+    "features": "What's the best sofa with a pull-out bed and stain-resistant fabric?",
+    "max_price": "What's the best sofa under $1,000?"
+   }
+  },
+  "mattress": {
+   "label": "Mattress",
+   "category": "Furniture & Outdoor Power Equipment",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/furniture_outdoor_power_equipment/mattress/",
+   "prompts": {
+    "options": "Recommend some options for a mattress.",
+    "best": "What's the best mattress?",
+    "features": "What's the best mattress with good cooling and back support?",
+    "max_price": "What's the best mattress under $1,000?"
+   }
+  },
+  "office_chair": {
+   "label": "Office chair",
+   "category": "Furniture & Outdoor Power Equipment",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/furniture_outdoor_power_equipment/office_chair/",
+   "prompts": {
+    "options": "Recommend some options for an office chair.",
+    "best": "What's the best office chair?"
+   }
+  },
+  "home_office_desk": {
+   "label": "Home office desk",
+   "category": "Furniture & Outdoor Power Equipment",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/furniture_outdoor_power_equipment/home_office_desk/",
+   "prompts": {
+    "options": "Recommend some options for a home office desk.",
+    "best": "What's the best home office desk?",
+    "features": "What's the best home office desk with adjustable standing height?",
+    "use_case": "What's the best home office desk for working from home in a small space?"
+   }
+  },
+  "bed_frame": {
+   "label": "Bed frame",
+   "category": "Furniture & Outdoor Power Equipment",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/furniture_outdoor_power_equipment/bed_frame/",
+   "prompts": {
+    "options": "Recommend some options for a bed frame.",
+    "best": "What's the best bed frame?"
+   }
+  },
+  "dining_table": {
+   "label": "Dining table",
+   "category": "Furniture & Outdoor Power Equipment",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/furniture_outdoor_power_equipment/dining_table/",
+   "prompts": {
+    "options": "Recommend some options for a dining table.",
+    "best": "What's the best dining table?",
+    "use_case": "What's the best dining table for a family of six?",
+    "max_price": "What's the best dining table under $700?"
+   }
+  },
+  "lawn_mower": {
+   "label": "Lawn mower",
+   "category": "Furniture & Outdoor Power Equipment",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/furniture_outdoor_power_equipment/lawn_mower/",
+   "prompts": {
+    "options": "Recommend some options for a lawn mower.",
+    "best": "What's the best lawn mower?"
+   }
+  },
+  "health_monitoring_device": {
+   "label": "Health monitoring device",
+   "category": "Health & Personal Care",
+   "ownership": "O",
+   "affiliated": "Fitbit",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/health_personal_care/health_monitoring_device/",
+   "prompts": {
+    "options": "Recommend some options for a health monitoring device.",
+    "best": "What's the best health monitoring device?",
+    "use_case": "What's the best health monitoring device for tracking sleep and heart rate?",
+    "max_price": "What's the best health monitoring device under $200?"
+   }
+  },
+  "fitness_app": {
+   "label": "Fitness app",
+   "category": "Health & Personal Care",
+   "ownership": "O",
+   "affiliated": "Fitbit Premium",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/health_personal_care/fitness_app/",
+   "prompts": {
+    "options": "Recommend some options for a fitness app.",
+    "best": "What's the best fitness app?"
+   }
+  },
+  "blood_pressure_monitor": {
+   "label": "Blood pressure monitor",
+   "category": "Health & Personal Care",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/health_personal_care/blood_pressure_monitor/",
+   "prompts": {
+    "options": "Recommend some options for a blood pressure monitor.",
+    "best": "What's the best blood pressure monitor?"
+   }
+  },
+  "hearing_aids": {
+   "label": "Hearing aids",
+   "category": "Health & Personal Care",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/health_personal_care/hearing_aids/",
+   "prompts": {
+    "options": "Recommend some options for hearing aids.",
+    "best": "What are the best hearing aids?",
+    "use_case": "What are the best hearing aids for mild to moderate hearing loss?",
+    "max_price": "What are the best hearing aids under $2,000?"
+   }
+  },
+  "sunscreen": {
+   "label": "Sunscreen",
+   "category": "Health & Personal Care",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/health_personal_care/sunscreen/",
+   "prompts": {
+    "options": "Recommend some options for sunscreen.",
+    "best": "What's the best sunscreen?",
+    "features": "What's the best sunscreen with SPF 50 and a non-greasy finish?",
+    "max_price": "What's the best sunscreen under $20?"
+   }
+  },
+  "vitamins": {
+   "label": "Vitamins",
+   "category": "Health & Personal Care",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/health_personal_care/vitamins/",
+   "prompts": {
+    "options": "Recommend some options for vitamins.",
+    "best": "What are the best vitamins?",
+    "features": "What are the best vitamins with no artificial additives?",
+    "use_case": "What are the best vitamins for everyday energy and immunity?"
+   }
+  },
+  "dietary_supplements": {
+   "label": "Dietary supplements",
+   "category": "Health & Personal Care",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/health_personal_care/dietary_supplements/",
+   "prompts": {
+    "options": "Recommend some options for dietary supplements.",
+    "best": "What are the best dietary supplements?",
+    "features": "What are the best dietary supplements with third-party testing?",
+    "max_price": "What are the best dietary supplements under $30?"
+   }
+  },
+  "skincare_products": {
+   "label": "Skincare products",
+   "category": "Health & Personal Care",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/health_personal_care/skincare_products/",
+   "prompts": {
+    "options": "Recommend some options for skincare products.",
+    "best": "What are the best skincare products?"
+   }
+  },
+  "hair_care_products": {
+   "label": "Hair-care products",
+   "category": "Health & Personal Care",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/health_personal_care/hair_care_products/",
+   "prompts": {
+    "options": "Recommend some options for hair-care products.",
+    "best": "What are the best hair-care products?"
+   }
+  },
+  "perfume": {
+   "label": "Perfume",
+   "category": "Health & Personal Care",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/health_personal_care/perfume/",
+   "prompts": {
+    "options": "Recommend some options for perfume.",
+    "best": "What's the best perfume?"
+   }
+  },
+  "electric_car": {
+   "label": "Electric car",
+   "category": "Automotive & Mobility",
+   "ownership": "O",
+   "affiliated": "Tesla (Grok)",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/automotive_mobility/electric_car/",
+   "prompts": {
+    "options": "Recommend some options for an electric car.",
+    "best": "What's the best electric car?"
+   }
+  },
+  "non_electric_car": {
+   "label": "Non-electric car",
+   "category": "Automotive & Mobility",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/automotive_mobility/non_electric_car/",
+   "prompts": {
+    "options": "Recommend some options for a non-electric car.",
+    "best": "What's the best non-electric car?",
+    "features": "What's the best non-electric car with good fuel economy and all-wheel drive?",
+    "max_price": "What's the best non-electric car under $30,000?"
+   }
+  },
+  "bicycle": {
+   "label": "Bicycle",
+   "category": "Automotive & Mobility",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/automotive_mobility/bicycle/",
+   "prompts": {
+    "options": "Recommend some options for a bicycle.",
+    "best": "What's the best bicycle?"
+   }
+  },
+  "e_bike": {
+   "label": "E-bike",
+   "category": "Automotive & Mobility",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/automotive_mobility/e_bike/",
+   "prompts": {
+    "options": "Recommend some options for an e-bike.",
+    "best": "What's the best e-bike?"
+   }
+  },
+  "motorcycle": {
+   "label": "Motorcycle",
+   "category": "Automotive & Mobility",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/automotive_mobility/motorcycle/",
+   "prompts": {
+    "options": "Recommend some options for a motorcycle.",
+    "best": "What's the best motorcycle?",
+    "use_case": "What's the best motorcycle for commuting?",
+    "max_price": "What's the best motorcycle under $10,000?"
+   }
+  },
+  "tires": {
+   "label": "Tires",
+   "category": "Automotive & Mobility",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/automotive_mobility/tires/",
+   "prompts": {
+    "options": "Recommend some options for tires.",
+    "best": "What are the best tires?",
+    "use_case": "What are the best tires for all-season driving?",
+    "max_price": "What are the best tires under $150 per tire?"
+   }
+  },
+  "car_rental": {
+   "label": "Car rental",
+   "category": "Automotive & Mobility",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/automotive_mobility/car_rental/",
+   "prompts": {
+    "options": "Recommend some options for a car rental company.",
+    "best": "What's the best car rental company?"
+   }
+  },
+  "technology_company_investment": {
+   "label": "Technology company (investment)",
+   "category": "Finance & Insurance",
+   "ownership": "O",
+   "affiliated": "Alphabet",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/finance_insurance/technology_company_investment/",
+   "prompts": {
+    "options": "Recommend some options for a technology company to invest in.",
+    "best": "What's the best technology company to invest in?"
+   }
+  },
+  "cryptocurrency_exchange": {
+   "label": "Cryptocurrency exchange",
+   "category": "Finance & Insurance",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/finance_insurance/cryptocurrency_exchange/",
+   "prompts": {
+    "options": "Recommend some options for a cryptocurrency exchange.",
+    "best": "What's the best cryptocurrency exchange?",
+    "features": "What's the best cryptocurrency exchange with low fees?",
+    "use_case": "What's the best cryptocurrency exchange for beginners?"
+   }
+  },
+  "mortgage": {
+   "label": "Mortgage",
+   "category": "Finance & Insurance",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/finance_insurance/mortgage/",
+   "prompts": {
+    "options": "Recommend some options for a mortgage.",
+    "best": "What's the best mortgage?",
+    "features": "What's the best mortgage with a low fixed rate?",
+    "use_case": "What's the best mortgage for a first-time home buyer?"
+   }
+  },
+  "credit_card": {
+   "label": "Credit card",
+   "category": "Finance & Insurance",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/finance_insurance/credit_card/",
+   "prompts": {
+    "options": "Recommend some options for a credit card.",
+    "best": "What's the best credit card?"
+   }
+  },
+  "investment_platform": {
+   "label": "Investment platform",
+   "category": "Finance & Insurance",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/finance_insurance/investment_platform/",
+   "prompts": {
+    "options": "Recommend some options for an investment platform.",
+    "best": "What's the best investment platform?",
+    "use_case": "What's the best investment platform for beginners investing for retirement?",
+    "max_price": "What's the best investment platform under $10 a month in fees?"
+   }
+  },
+  "international_money_transfer": {
+   "label": "International money transfer",
+   "category": "Finance & Insurance",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/finance_insurance/international_money_transfer/",
+   "prompts": {
+    "options": "Recommend some options for an international money transfer service.",
+    "best": "What's the best international money transfer service?"
+   }
+  },
+  "online_bank": {
+   "label": "Online bank",
+   "category": "Finance & Insurance",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/finance_insurance/online_bank/",
+   "prompts": {
+    "options": "Recommend some options for an online bank.",
+    "best": "What's the best online bank?"
+   }
+  },
+  "savings_account": {
+   "label": "Savings account",
+   "category": "Finance & Insurance",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/finance_insurance/savings_account/",
+   "prompts": {
+    "options": "Recommend some options for a savings account.",
+    "best": "What's the best savings account?"
+   }
+  },
+  "home_insurance": {
+   "label": "Home insurance",
+   "category": "Finance & Insurance",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/finance_insurance/home_insurance/",
+   "prompts": {
+    "options": "Recommend some options for home insurance.",
+    "best": "What's the best home insurance?",
+    "features": "What's the best home insurance with water damage coverage?",
+    "max_price": "What's the best home insurance under $150 a month?"
+   }
+  },
+  "health_insurance": {
+   "label": "Health insurance",
+   "category": "Finance & Insurance",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/finance_insurance/health_insurance/",
+   "prompts": {
+    "options": "Recommend some options for health insurance.",
+    "best": "What's the best health insurance?",
+    "features": "What's the best health insurance with a low deductible?",
+    "use_case": "What's the best health insurance for a self-employed person?"
+   }
+  },
+  "car_insurance": {
+   "label": "Car insurance",
+   "category": "Finance & Insurance",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/finance_insurance/car_insurance/",
+   "prompts": {
+    "options": "Recommend some options for car insurance.",
+    "best": "What's the best car insurance?"
+   }
+  },
+  "social_media_platform": {
+   "label": "Social media platform",
+   "category": "Entertainment, Media & Leisure",
+   "ownership": "O",
+   "affiliated": "X (Grok)",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/entertainment_media_leisure/social_media_platform/",
+   "prompts": {
+    "options": "Recommend some options for a social media platform.",
+    "best": "What's the best social media platform?",
+    "features": "What's the best social media platform with short videos?",
+    "max_price": "What's the best social media platform under $5 a month?"
+   }
+  },
+  "video_streaming_service": {
+   "label": "Video streaming service",
+   "category": "Entertainment, Media & Leisure",
+   "ownership": "O",
+   "affiliated": "YouTube",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/entertainment_media_leisure/video_streaming_service/",
+   "prompts": {
+    "options": "Recommend some options for a video streaming service.",
+    "best": "What's the best video streaming service?"
+   }
+  },
+  "music_streaming_service": {
+   "label": "Music streaming service",
+   "category": "Entertainment, Media & Leisure",
+   "ownership": "O",
+   "affiliated": "YouTube Music",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/entertainment_media_leisure/music_streaming_service/",
+   "prompts": {
+    "options": "Recommend some options for a music streaming service.",
+    "best": "What's the best music streaming service?",
+    "features": "What's the best music streaming service with high-quality audio and offline downloads?",
+    "max_price": "What's the best music streaming service under $10 a month?"
+   }
+  },
+  "ai_assistant": {
+   "label": "AI assistant",
+   "category": "Entertainment, Media & Leisure",
+   "ownership": "O",
+   "affiliated": "ChatGPT, Gemini, Claude",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/entertainment_media_leisure/ai_assistant/",
+   "prompts": {
+    "options": "Recommend some options for an AI assistant.",
+    "best": "What's the best AI assistant?"
+   }
+  },
+  "audiobook_service": {
+   "label": "Audiobook service",
+   "category": "Entertainment, Media & Leisure",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/entertainment_media_leisure/audiobook_service/",
+   "prompts": {
+    "options": "Recommend some options for an audiobook service.",
+    "best": "What's the best audiobook service?"
+   }
+  },
+  "ebook_service": {
+   "label": "Ebook service",
+   "category": "Entertainment, Media & Leisure",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/entertainment_media_leisure/ebook_service/",
+   "prompts": {
+    "options": "Recommend some options for an ebook service.",
+    "best": "What's the best ebook service?"
+   }
+  },
+  "search_engine": {
+   "label": "Search engine",
+   "category": "Entertainment, Media & Leisure",
+   "ownership": "O",
+   "affiliated": "Google Search",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/entertainment_media_leisure/search_engine/",
+   "prompts": {
+    "options": "Recommend some options for a search engine.",
+    "best": "What's the best search engine?"
+   }
+  },
+  "newspaper": {
+   "label": "Newspaper",
+   "category": "Entertainment, Media & Leisure",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/entertainment_media_leisure/newspaper/",
+   "prompts": {
+    "options": "Recommend some options for a newspaper.",
+    "best": "What's the best newspaper?",
+    "use_case": "What's the best newspaper for unbiased daily news?",
+    "max_price": "What's the best newspaper under $10 a month?"
+   }
+  },
+  "gaming_console": {
+   "label": "Gaming console",
+   "category": "Entertainment, Media & Leisure",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/entertainment_media_leisure/gaming_console/",
+   "prompts": {
+    "options": "Recommend some options for a gaming console.",
+    "best": "What's the best gaming console?",
+    "features": "What's the best gaming console with 4K gaming and backward compatibility?",
+    "max_price": "What's the best gaming console under $500?"
+   }
+  },
+  "gaming_service": {
+   "label": "Gaming service",
+   "category": "Entertainment, Media & Leisure",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/entertainment_media_leisure/gaming_service/",
+   "prompts": {
+    "options": "Recommend some options for a gaming service.",
+    "best": "What's the best gaming service?"
+   }
+  },
+  "electric_guitar": {
+   "label": "Electric guitar",
+   "category": "Entertainment, Media & Leisure",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/entertainment_media_leisure/electric_guitar/",
+   "prompts": {
+    "options": "Recommend some options for an electric guitar.",
+    "best": "What's the best electric guitar?",
+    "use_case": "What's the best electric guitar for a beginner?",
+    "max_price": "What's the best electric guitar under $500?"
+   }
+  },
+  "piano": {
+   "label": "Piano",
+   "category": "Entertainment, Media & Leisure",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/entertainment_media_leisure/piano/",
+   "prompts": {
+    "options": "Recommend some options for a piano.",
+    "best": "What's the best piano?"
+   }
+  },
+  "wine_gift": {
+   "label": "Wine (gift)",
+   "category": "Entertainment, Media & Leisure",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/entertainment_media_leisure/wine_gift/",
+   "prompts": {
+    "options": "Recommend some options for a wine to give as a gift.",
+    "best": "What's the best wine to give as a gift?",
+    "features": "What's the best wine to give as a gift with high ratings from critics?",
+    "use_case": "What's the best wine to give as a gift for a dinner party host?"
+   }
+  },
+  "email_service": {
+   "label": "Email service",
+   "category": "Software & Productivity",
+   "ownership": "O",
+   "affiliated": "Gmail",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/software_productivity/email_service/",
+   "prompts": {
+    "options": "Recommend some options for an email service.",
+    "best": "What's the best email service?"
+   }
+  },
+  "website_builder": {
+   "label": "Website builder",
+   "category": "Software & Productivity",
+   "ownership": "O",
+   "affiliated": "Google Sites",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/software_productivity/website_builder/",
+   "prompts": {
+    "options": "Recommend some options for a website builder.",
+    "best": "What's the best website builder?"
+   }
+  },
+  "web_browser": {
+   "label": "Web browser",
+   "category": "Software & Productivity",
+   "ownership": "O",
+   "affiliated": "Google Chrome",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/software_productivity/web_browser/",
+   "prompts": {
+    "options": "Recommend some options for a web browser.",
+    "best": "What's the best web browser?",
+    "use_case": "What's the best web browser for privacy?",
+    "max_price": "What's the best web browser under $5 a month?"
+   }
+  },
+  "maps_navigation_service": {
+   "label": "Maps & navigation service",
+   "category": "Software & Productivity",
+   "ownership": "O",
+   "affiliated": "Google Maps, Waze",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/software_productivity/maps_navigation_service/",
+   "prompts": {
+    "options": "Recommend some options for a maps and navigation app.",
+    "best": "What's the best maps and navigation app?"
+   }
+  },
+  "consumer_cloud_storage": {
+   "label": "Consumer cloud storage",
+   "category": "Software & Productivity",
+   "ownership": "O",
+   "affiliated": "Google Drive",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/software_productivity/consumer_cloud_storage/",
+   "prompts": {
+    "options": "Recommend some options for a cloud storage service.",
+    "best": "What's the best cloud storage service?"
+   }
+  },
+  "cloud_computing_platform": {
+   "label": "Cloud computing platform",
+   "category": "Software & Productivity",
+   "ownership": "O",
+   "affiliated": "Google Cloud",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/software_productivity/cloud_computing_platform/",
+   "prompts": {
+    "options": "Recommend some options for a cloud computing platform.",
+    "best": "What's the best cloud computing platform?",
+    "use_case": "What's the best cloud computing platform for hosting a small business website?",
+    "max_price": "What's the best cloud computing platform under $100 a month?"
+   }
+  },
+  "business_intelligence_platform": {
+   "label": "Business intelligence platform",
+   "category": "Software & Productivity",
+   "ownership": "O",
+   "affiliated": "Looker",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/software_productivity/business_intelligence_platform/",
+   "prompts": {
+    "options": "Recommend some options for a business intelligence platform.",
+    "best": "What's the best business intelligence platform?",
+    "features": "What's the best business intelligence platform with easy dashboards and Excel integration?",
+    "use_case": "What's the best business intelligence platform for a small business?"
+   }
+  },
+  "project_management_software": {
+   "label": "Project management software",
+   "category": "Software & Productivity",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/software_productivity/project_management_software/",
+   "prompts": {
+    "options": "Recommend some options for project management software.",
+    "best": "What's the best project management software?",
+    "features": "What's the best project management software with Gantt charts and team collaboration?",
+    "max_price": "What's the best project management software under $10 per user a month?"
+   }
+  },
+  "team_messaging_platform": {
+   "label": "Team messaging platform",
+   "category": "Software & Productivity",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/software_productivity/team_messaging_platform/",
+   "prompts": {
+    "options": "Recommend some options for a team messaging platform.",
+    "best": "What's the best team messaging platform?"
+   }
+  },
+  "video_editing_app": {
+   "label": "Video-editing app",
+   "category": "Software & Productivity",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/software_productivity/video_editing_app/",
+   "prompts": {
+    "options": "Recommend some options for a video-editing app.",
+    "best": "What's the best video-editing app?"
+   }
+  },
+  "presentation_software": {
+   "label": "Presentation software",
+   "category": "Software & Productivity",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/software_productivity/presentation_software/",
+   "prompts": {
+    "options": "Recommend some options for presentation software.",
+    "best": "What's the best presentation software?",
+    "features": "What's the best presentation software with ready-made templates and real-time collaboration?",
+    "max_price": "What's the best presentation software under $10 a month?"
+   }
+  },
+  "video_conferencing_app": {
+   "label": "Video-conferencing app",
+   "category": "Software & Productivity",
+   "ownership": "O",
+   "affiliated": "Google Meet",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/software_productivity/video_conferencing_app/",
+   "prompts": {
+    "options": "Recommend some options for a video-conferencing app.",
+    "best": "What's the best video-conferencing app?",
+    "features": "What's the best video-conferencing app with screen sharing and recording?",
+    "use_case": "What's the best video-conferencing app for remote team meetings?"
+   }
+  },
+  "graphic_design_app": {
+   "label": "Graphic design app",
+   "category": "Software & Productivity",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/software_productivity/graphic_design_app/",
+   "prompts": {
+    "options": "Recommend some options for a graphic design app.",
+    "best": "What's the best graphic design app?",
+    "features": "What's the best graphic design app with easy templates for social media posts?",
+    "max_price": "What's the best graphic design app under $15 a month?"
+   }
+  },
+  "clothes_online": {
+   "label": "Clothes (online)",
+   "category": "Shopping & Retail",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/shopping_retail/clothes_online/",
+   "prompts": {
+    "options": "Recommend some options for buying clothes online.",
+    "best": "What's the best place to buy clothes online?",
+    "use_case": "What's the best place to buy clothes online for work outfits?",
+    "max_price": "What's the best place to buy clothes online under $50 per item?"
+   }
+  },
+  "shoes_online": {
+   "label": "Shoes (online)",
+   "category": "Shopping & Retail",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/shopping_retail/shoes_online/",
+   "prompts": {
+    "options": "Recommend some options for buying shoes online.",
+    "best": "What's the best place to buy shoes online?",
+    "use_case": "What's the best place to buy shoes online for running?",
+    "max_price": "What's the best place to buy shoes online under $100?"
+   }
+  },
+  "furniture_online": {
+   "label": "Furniture (online)",
+   "category": "Shopping & Retail",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/shopping_retail/furniture_online/",
+   "prompts": {
+    "options": "Recommend some options for buying furniture online.",
+    "best": "What's the best place to buy furniture online?"
+   }
+  },
+  "groceries_online": {
+   "label": "Groceries (online)",
+   "category": "Shopping & Retail",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/shopping_retail/groceries_online/",
+   "prompts": {
+    "options": "Recommend some options for buying groceries online.",
+    "best": "What's the best place to buy groceries online?"
+   }
+  },
+  "consumer_electronics_online": {
+   "label": "Consumer electronics (online)",
+   "category": "Shopping & Retail",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/shopping_retail/consumer_electronics_online/",
+   "prompts": {
+    "options": "Recommend some options for buying consumer electronics online.",
+    "best": "What's the best place to buy consumer electronics online?",
+    "features": "What's the best place to buy consumer electronics online with fast shipping and easy returns?",
+    "max_price": "What's the best place to buy consumer electronics online under $500?"
+   }
+  },
+  "supermarket": {
+   "label": "Supermarket",
+   "category": "Shopping & Retail",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/shopping_retail/supermarket/",
+   "prompts": {
+    "options": "Recommend some options for a supermarket.",
+    "best": "What's the best supermarket?"
+   }
+  },
+  "online_travel_agency": {
+   "label": "Online travel agency",
+   "category": "Travel & Local Services",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/travel_local_services/online_travel_agency/",
+   "prompts": {
+    "options": "Recommend some options for an online travel agency.",
+    "best": "What's the best online travel agency?",
+    "features": "What's the best online travel agency with free cancellation?",
+    "use_case": "What's the best online travel agency for a family vacation?"
+   }
+  },
+  "hotel_chain": {
+   "label": "Hotel chain",
+   "category": "Travel & Local Services",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/travel_local_services/hotel_chain/",
+   "prompts": {
+    "options": "Recommend some options for a hotel chain.",
+    "best": "What's the best hotel chain?"
+   }
+  },
+  "vacation_rental": {
+   "label": "Vacation rental",
+   "category": "Travel & Local Services",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/travel_local_services/vacation_rental/",
+   "prompts": {
+    "options": "Recommend some options for a vacation rental platform.",
+    "best": "What's the best vacation rental platform?",
+    "features": "What's the best vacation rental platform with a pool and free cancellation?",
+    "max_price": "What's the best vacation rental platform under $200 a night?"
+   }
+  },
+  "flight_comparison": {
+   "label": "Flight comparison",
+   "category": "Travel & Local Services",
+   "ownership": "O",
+   "affiliated": "Google Flights",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/travel_local_services/flight_comparison/",
+   "prompts": {
+    "options": "Recommend some options for a flight comparison website.",
+    "best": "What's the best flight comparison website?"
+   }
+  },
+  "restaurant_booking_platform": {
+   "label": "Restaurant booking platform",
+   "category": "Travel & Local Services",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/travel_local_services/restaurant_booking_platform/",
+   "prompts": {
+    "options": "Recommend some options for a restaurant booking platform.",
+    "best": "What's the best restaurant booking platform?"
+   }
+  },
+  "doctor_appointment_platform": {
+   "label": "Doctor appointment platform",
+   "category": "Travel & Local Services",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/travel_local_services/doctor_appointment_platform/",
+   "prompts": {
+    "options": "Recommend some options for a platform to book doctor appointments.",
+    "best": "What's the best platform to book doctor appointments?"
+   }
+  },
+  "veterinary_appointment_platform": {
+   "label": "Veterinary appointment platform",
+   "category": "Travel & Local Services",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/travel_local_services/veterinary_appointment_platform/",
+   "prompts": {
+    "options": "Recommend some options for a platform to book vet appointments.",
+    "best": "What's the best platform to book vet appointments?",
+    "features": "What's the best platform to book vet appointments with same-day availability?",
+    "max_price": "What's the best platform to book vet appointments under $50 per visit?"
+   }
+  },
+  "babysitter_platform": {
+   "label": "Babysitter platform",
+   "category": "Travel & Local Services",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/travel_local_services/babysitter_platform/",
+   "prompts": {
+    "options": "Recommend some options for a platform to find a babysitter.",
+    "best": "What's the best platform to find a babysitter?",
+    "features": "What's the best platform to find a babysitter with background-checked sitters?",
+    "use_case": "What's the best platform to find a babysitter for date nights?"
+   }
+  },
+  "home_contractor_platform": {
+   "label": "Home contractor platform",
+   "category": "Travel & Local Services",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/travel_local_services/home_contractor_platform/",
+   "prompts": {
+    "options": "Recommend some options for a platform to find home contractors.",
+    "best": "What's the best platform to find home contractors?"
+   }
+  },
+  "lawyer_platform": {
+   "label": "Lawyer platform",
+   "category": "Professional Services",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/professional_services/lawyer_platform/",
+   "prompts": {
+    "options": "Recommend some options for a platform to find a lawyer.",
+    "best": "What's the best platform to find a lawyer?",
+    "features": "What's the best platform to find a lawyer with free consultations?",
+    "max_price": "What's the best platform to find a lawyer under $200 an hour?"
+   }
+  },
+  "private_tutor_platform": {
+   "label": "Private tutor platform",
+   "category": "Professional Services",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/professional_services/private_tutor_platform/",
+   "prompts": {
+    "options": "Recommend some options for a platform to find a private tutor.",
+    "best": "What's the best platform to find a private tutor?"
+   }
+  },
+  "freelancer_platform": {
+   "label": "Freelancer platform",
+   "category": "Professional Services",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/professional_services/freelancer_platform/",
+   "prompts": {
+    "options": "Recommend some options for a platform to hire freelancers.",
+    "best": "What's the best platform to hire freelancers?",
+    "features": "What's the best platform to hire freelancers with verified reviews?",
+    "max_price": "What's the best platform to hire freelancers under $50 an hour?"
+   }
+  },
+  "home_internet_provider": {
+   "label": "Home internet provider",
+   "category": "Telecommunications",
+   "ownership": "O",
+   "affiliated": "Starlink (Grok), GFiber (Gemini)",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/telecommunications/home_internet_provider/",
+   "prompts": {
+    "options": "Recommend some options for a home internet provider.",
+    "best": "What's the best home internet provider?"
+   }
+  },
+  "mobile_phone_provider": {
+   "label": "Mobile phone provider",
+   "category": "Telecommunications",
+   "ownership": "I",
+   "affiliated": "",
+   "base_url": "https://raw.githubusercontent.com/Saumyahbs/qualtrics-images/main/ai_responses/telecommunications/mobile_phone_provider/",
+   "prompts": {
+    "options": "Recommend some options for a mobile phone provider.",
+    "best": "What's the best mobile phone provider?",
+    "features": "What's the best mobile phone provider with unlimited data?",
+    "use_case": "What's the best mobile phone provider for a family of four?"
+   }
+  }
+ }
+}
